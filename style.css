@@ -1,59 +1,84 @@
+/* RESET DE BASE */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Segoe UI', sans-serif;
 }
 
 body {
-  background-color: #ffffff;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+  color: #111;
+  line-height: 1.6;
 }
 
+/* HEADER */
 header {
-  background: #daffda;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e1e1e1;
   padding: 20px 0;
-  border-bottom: 2px solid #a2ffa2;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);
 }
 
 .container {
-  width: 90%;
   max-width: 1100px;
   margin: 0 auto;
+  padding: 0 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-nav a {
-  color: #eee;
-  margin-left: 20px;
-  text-decoration: none;
-  font-weight: 500;
+.logo {
+  font-size: 28px;
+  font-weight: 600;
+  color: #00a878;
 }
 
+.logo-bold {
+  font-weight: 700;
+  color: #004d40;
+  font-family: 'Mrs Saint Delafield', cursive;
+}
+
+/* NAVIGATION */
+nav a {
+  color: #444;
+  text-decoration: none;
+  margin-left: 20px;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: #00a878;
+}
+
+/* MAIN */
 main {
   padding: 40px 20px;
 }
 
+/* ANNONCES */
 .annonces {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 20px;
-  width: 90%;
   max-width: 1100px;
   margin: 0 auto;
 }
 
 .annonce {
-  background-color: #daffda;
+  background-color: #ffffff;
+  border: 1px solid #eaeaea;
   border-radius: 12px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
   overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .annonce:hover {
   transform: scale(1.02);
-  box-shadow: 0 0 10px #eaeaea;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
 }
 
 .annonce img {
@@ -68,46 +93,42 @@ main {
 
 .info h2 {
   font-size: 18px;
+  color: #222;
   margin-bottom: 5px;
 }
 
 .info p {
   font-size: 14px;
-  color: #aaa;
+  color: #666;
 }
 
 .prix {
-  color: #fff;
+  color: #00a878;
   font-weight: bold;
-  margin-top: 5px;
+  margin-top: 8px;
 }
 
-footer {
-  text-align: center;
-  padding: 20px;
-  font-size: 14px;
-  color: #555;
-}
-
+/* FILTRES + TRI */
 .contenu {
   display: flex;
   gap: 2rem;
   padding: 2rem;
+  max-width: 1100px;
+  margin: 0 auto;
 }
 
-/* Filtres colonne gauche */
 .filtres {
   width: 220px;
-  background-color: #daffda;
-  border: 1px solid #a2ffa2;
-  color: #a2ffa2;
+  background-color: #ffffff;
+  border: 1px solid #e1e1e1;
+  border-radius: 8px;
   padding: 1rem;
-  box-shadow: 0 0 10px rgba(0,0,0,0.05);
 }
 
 .filtres h3 {
   margin-bottom: 1rem;
   font-size: 1.1rem;
+  color: #333;
 }
 
 .filtres select {
@@ -115,12 +136,17 @@ footer {
   margin-bottom: 1rem;
   padding: 0.5rem;
   font-size: 0.95rem;
-  background-color: #daffda;
-  color: #fff;
-  border: none;
+  background-color: #fff;
+  color: #111;
+  border: 1px solid #ccc;
+  border-radius: 5px;
 }
 
-/* Partie annonces */
+.filtres select:focus {
+  outline: none;
+  border-color: #00a878;
+}
+
 .annonces-section {
   flex: 1;
 }
@@ -136,18 +162,23 @@ footer {
 .tri select {
   padding: 0.4rem;
   font-size: 0.95rem;
-  background-color: #daffda;
-  color: #fff;
-  border: none;
-}
-.logo {
-  font-size: 32px;
-  color: #fff;
-  letter-spacing: 1px;
+  background-color: #fff;
+  color: #111;
+  border: 1px solid #ccc;
+  border-radius: 5px;
 }
 
-.logo-bold {
-  color: #00ff99;
-  font-weight: 700;
-  font-family: 'Mrs Saint Delafield';
+.tri select:focus {
+  border-color: #00a878;
+  outline: none;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+  color: #777;
+  background-color: #f1f1f1;
+  margin-top: 40px;
 }
