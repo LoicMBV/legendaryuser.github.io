@@ -7,14 +7,14 @@ let allAnnonces = []; // on garde toutes les annonces ici (pour filtrer)
 async function loadAnnonces() {
   const response = await fetch('data.json');
   const annonces = await response.json();
-  allAnnonces = annonces; // on garde les données globalement
-
-  afficherAnnonces(annonces); // première fois : on affiche tout
+  allAnnonces = annonces;
+  appliquerFiltres(); // pour charger les premiers 10 automatiquement
 }
+
 
 function afficherAnnonces(annonces) {
   const container = document.querySelector('.annonces');
-  container.innerHTML = ''; // on vide les anciennes cartes
+  // PAS de container.innerHTML ici ! sinon ça efface les précédentes
 
   annonces.forEach((annonce) => {
     const div = document.createElement('div');
@@ -32,6 +32,7 @@ function afficherAnnonces(annonces) {
     container.appendChild(div);
   });
 }
+
 
 // Fonction appelée quand on change un filtre
 function appliquerFiltres() {
@@ -60,6 +61,12 @@ function appliquerFiltres() {
   chargerPlus(); // charge les premiers 10
 }
 
+function chargerPlus() {
+  const prochainChunk = annoncesFiltrees.slice(indexAffichage, indexAffichage + chunkSize);
+  afficherAnnonces(prochainChunk);
+  indexAffichage += chunkSize;
+}
+
 
 // Nouvelle ligne : pour le tri aussi
 document.getElementById('tri').addEventListener('change', appliquerFiltres);
@@ -69,3 +76,10 @@ document.getElementById('filtre-marque').addEventListener('change', appliquerFil
 document.getElementById('filtre-motorisation').addEventListener('change', appliquerFiltres);
 
 loadAnnonces(); // on lance tout au début
+
+window.addEventListener('scroll', () => {
+  const nearBottom = window.innerHeight + window.scrollY >= document.body.offsetHeight - 100;
+  if (nearBottom && indexAffichage < annoncesFiltrees.length) {
+    chargerPlus();
+  }
+});
