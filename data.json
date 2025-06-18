@@ -7,6 +7,7 @@
     "km": "1 200 km",
     "price": "620 000 €",
     "url": "ICI METTRE URL DE L'ANNONCE"
+    "priceValue": 620000
   },
   {
     "title": "Lamborghini Revuelto",
@@ -16,6 +17,7 @@
     "km": "800 km",
     "price": "670 000 €",
     "url": "ICI METTRE URL DE L'ANNONCE"
+    "priceValue": 670000
   },
   {
     "title": "Bugatti Chiron Super Sport",
@@ -23,7 +25,8 @@
     "year": 2022,
     "engine": "W16",
     "km": "3 000 km",
-    "price": "3 500 001 €",
+    "price": "3 500 000 €",
     "url": "ICI METTRE URL DE L'ANNONCE"
+    "priceValue": 3500000
   }
 ]
