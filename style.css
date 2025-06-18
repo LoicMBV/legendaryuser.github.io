@@ -98,7 +98,8 @@ footer {
 /* Filtres colonne gauche */
 .filtres {
   width: 220px;
-  background-color: #99a8ea;
+  background-color: #1e1e1e;
+  color: #eee;
   border-radius: 10px;
   padding: 1rem;
   box-shadow: 0 0 10px rgba(0,0,0,0.05);
@@ -114,6 +115,9 @@ footer {
   margin-bottom: 1rem;
   padding: 0.5rem;
   font-size: 0.95rem;
+  background-color: #2a2a2a;
+  color: #fff;
+  border: none;
 }
 
 /* Partie annonces */
@@ -132,4 +136,7 @@ footer {
 .tri select {
   padding: 0.4rem;
   font-size: 0.95rem;
+  background-color: #2a2a2a;
+  color: #fff;
+  border: none;
 }
