@@ -21,8 +21,6 @@ header {
 }
 
 .container {
-  max-width: 1100px;
-  margin: 0 auto;
   padding: 0 20px;
   display: flex;
   justify-content: space-between;
@@ -113,8 +111,6 @@ main {
   display: flex;
   gap: 2rem;
   padding: 2rem;
-  max-width: 1100px;
-  margin: 0 auto;
 }
 
 .filtres {
