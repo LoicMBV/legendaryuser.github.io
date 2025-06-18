@@ -1,16 +1,20 @@
-// script.js
+let allAnnonces = []; // on garde toutes les annonces ici (pour filtrer)
 
-// Fonction pour charger les données et générer les annonces
 async function loadAnnonces() {
   const response = await fetch('data.json');
   const annonces = await response.json();
+  allAnnonces = annonces; // on garde les données globalement
 
+  afficherAnnonces(annonces); // première fois : on affiche tout
+}
+
+function afficherAnnonces(annonces) {
   const container = document.querySelector('.annonces');
+  container.innerHTML = ''; // on vide les anciennes cartes
 
   annonces.forEach((annonce) => {
     const div = document.createElement('div');
     div.className = 'annonce';
-
     div.innerHTML = `
       <a href="${annonce.url}" target="_blank">
         <img src="${annonce.image}" alt="${annonce.title}" />
@@ -21,10 +25,26 @@ async function loadAnnonces() {
         </div>
       </a>
     `;
-
     container.appendChild(div);
   });
 }
 
-// Appel de la fonction
-loadAnnonces();
+// Fonction appelée quand on change un filtre
+function appliquerFiltres() {
+  const marque = document.getElementById('filtre-marque').value;
+  const moteur = document.getElementById('filtre-motorisation').value;
+
+  const filtrées = allAnnonces.filter((a) => {
+    const okMarque = marque === '' || a.title.includes(marque);
+    const okMoteur = moteur === '' || a.engine === moteur;
+    return okMarque && okMoteur;
+  });
+
+  afficherAnnonces(filtrées);
+}
+
+// Quand les filtres changent, on applique
+document.getElementById('filtre-marque').addEventListener('change', appliquerFiltres);
+document.getElementById('filtre-motorisation').addEventListener('change', appliquerFiltres);
+
+loadAnnonces(); // on lance tout au début
