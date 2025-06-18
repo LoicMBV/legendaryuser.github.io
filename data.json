@@ -6,7 +6,7 @@
     "engine": "Hybride",
     "km": "1 200 km",
     "price": "620 000 €",
-    "url": "ICI METTRE URL DE L'ANNONCE"
+    "url": "ICI METTRE URL DE L'ANNONCE",
     "priceValue": 620000
   },
   {
@@ -16,7 +16,7 @@
     "engine": "Hybride",
     "km": "800 km",
     "price": "670 000 €",
-    "url": "ICI METTRE URL DE L'ANNONCE"
+    "url": "ICI METTRE URL DE L'ANNONCE",
     "priceValue": 670000
   },
   {
@@ -26,7 +26,7 @@
     "engine": "W16",
     "km": "3 000 km",
     "price": "3 500 000 €",
-    "url": "ICI METTRE URL DE L'ANNONCE"
+    "url": "ICI METTRE URL DE L'ANNONCE",
     "priceValue": 3500000
   }
 ]
