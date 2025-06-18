@@ -2,29 +2,54 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Legendary Autosport</title>
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; }
-    h1 { color: #222; }
-    .annonce { border: 1px solid #ccc; padding: 15px; margin-bottom: 10px; }
-  </style>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Legendary Autosport</h1>
-  <p>Bienvenue sur le site dédié aux hypercars de légende !</p>
+  <header>
+    <div class="container">
+      <h1>Legendary Autosport</h1>
+      <nav>
+        <a href="index.html">Accueil</a>
+        <a href="off-market.html">Off Market</a>
+      </nav>
+    </div>
+  </header>
 
-  <div class="annonce">
-    <h2>Lamborghini Aventador SVJ</h2>
-    <p>Prix : 450 000 €</p>
-    <p>Contact : vendeur@exemple.com</p>
-  </div>
+  <main>
+    <section class="annonces">
+      <!-- Annonce modèle -->
+      <div class="annonce">
+        <a href="ICI METTRE URL DE L'ANNONCE" target="_blank">
+          <img src="ICI METTRE URL IMAGE" alt="Nom voiture" />
+          <div class="info">
+            <h2>Ferrari SF90 Stradale</h2>
+            <p>2023 · Hybride · 1 200 km</p>
+            <p class="prix">620 000 €</p>
+          </div>
+        </a>
+      </div>
 
-  <div class="annonce">
-    <h2>Ferrari SF90 Stradale</h2>
-    <p>Prix : 520 000 €</p>
-    <p>Contact : vendeur2@exemple.com</p>
-  </div>
+      <!-- Tu peux dupliquer ce bloc pour chaque annonce -->
+      <div class="annonce">
+        <a href="ICI METTRE URL DE L'ANNONCE" target="_blank">
+          <img src="ICI METTRE URL IMAGE" alt="Nom voiture" />
+          <div class="info">
+            <h2>Lamborghini Revuelto</h2>
+            <p>2024 · Hybride · 800 km</p>
+            <p class="prix">670 000 €</p>
+          </div>
+        </a>
+      </div>
 
+      <!-- ... encore d'autres à la suite -->
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Legendary Autosport — Passion & Performance</p>
+  </footer>
 </body>
 </html>
-Ajout page d’accueil avec annonces exemples
+
