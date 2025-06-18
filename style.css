@@ -143,13 +143,13 @@ footer {
 .logo {
   font-size: 32px;
   color: #fff;
-  font-family: 'Bebas Neue', sans-serif; /* Police de style racing */
   letter-spacing: 1px;
 }
 
 .logo-bold {
-  color: #ffcc00;
+  color: #00ff00;
   font-weight: 700;
   text-transform: uppercase;
+  font-family: 'Mrs Saint Delafield';
 }
 
