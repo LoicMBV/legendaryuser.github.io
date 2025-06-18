@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Ferrari SF90 Stradale",
+    "image": "ICI METTRE URL IMAGE",
+    "year": 2023,
+    "engine": "Hybride",
+    "km": "1 200 km",
+    "price": "620 000 €",
+    "url": "ICI METTRE URL DE L'ANNONCE"
+  },
+  {
+    "title": "Lamborghini Revuelto",
+    "image": "ICI METTRE URL IMAGE",
+    "year": 2024,
+    "engine": "Hybride",
+    "km": "800 km",
+    "price": "670 000 €",
+    "url": "ICI METTRE URL DE L'ANNONCE"
+  },
+  {
+    "title": "Bugatti Chiron Super Sport",
+    "image": "ICI METTRE URL IMAGE",
+    "year": 2022,
+    "engine": "W16",
+    "km": "3 000 km",
+    "price": "3 500 000 €",
+    "url": "ICI METTRE URL DE L'ANNONCE"
+  }
+]
