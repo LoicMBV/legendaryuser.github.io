@@ -90,14 +90,14 @@
     "priceValue": 1000000
   },
   {
-    "title": "Test Data",
-    "image": "ICI METTRE URL IMAGE",
-    "year": 2024,
+    "title": "Ferrari LaFerrari",
+    "image": "https://listing-images.autoscout24.ch/138/10428138/4.jpg?w=1920&q=90",
+    "year": 2018,
     "engine": "Essence",
-    "km": "100 km",
-    "price": "2 800 000 €",
-    "url": "ICI METTRE URL DE L'ANNONCE",
-    "priceValue": 2800000
+    "km": "200 km",
+    "price": "6 500 000 €",
+    "url": "https://www.autoscout24.ch/fr/d/ferrari-laferrari-aperta-10428138?slide=1",
+    "priceValue": 6500000
   },
   {
     "title": "Test Data",
