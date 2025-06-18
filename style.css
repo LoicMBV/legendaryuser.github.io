@@ -45,7 +45,7 @@ main {
 }
 
 .annonce {
-  background-color: #a2ffa2;
+  background-color: #daffda;
   border-radius: 12px;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   overflow: hidden;
@@ -98,7 +98,7 @@ footer {
 /* Filtres colonne gauche */
 .filtres {
   width: 220px;
-  background-color: #a2ffa2;
+  background-color: #daffda;
   border: 1px solid #a2ffa2;
   color: #a2ffa2;
   padding: 1rem;
@@ -115,7 +115,7 @@ footer {
   margin-bottom: 1rem;
   padding: 0.5rem;
   font-size: 0.95rem;
-  background-color: #a2ffa2;
+  background-color: #daffda;
   color: #fff;
   border: none;
 }
@@ -136,7 +136,7 @@ footer {
 .tri select {
   padding: 0.4rem;
   font-size: 0.95rem;
-  background-color: #a2ffa2;
+  background-color: #daffda;
   color: #fff;
   border: none;
 }
