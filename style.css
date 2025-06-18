@@ -153,13 +153,3 @@ footer {
   font-weight: 700;
   font-family: 'Mrs Saint Delafield';
 }
-
-select {
-  background-color: #0a0a0a;
-  color: #00ff99;
-  border: 1px solid #003322;
-}
-select:focus {
-  outline: none;
-  border-color: #00cc66;
-}
