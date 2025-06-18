@@ -140,3 +140,9 @@ footer {
   color: #fff;
   border: none;
 }
+.logo {
+  color: #ffcc00;
+  font-weight: bold;
+  font-family: 'Georgia', serif;
+  letter-spacing: 1px;
+}
