@@ -39,25 +39,27 @@ function appliquerFiltres() {
   const moteur = document.getElementById('filtre-motorisation').value;
   const tri = document.getElementById('tri').value;
 
-  let filtrées = allAnnonces.filter((a) => {
+  annoncesFiltrees = allAnnonces.filter((a) => {
     const okMarque = marque === '' || a.title.includes(marque);
     const okMoteur = moteur === '' || a.engine === moteur;
     return okMarque && okMoteur;
   });
 
-  // Tri
   if (tri === 'prix-asc') {
-    filtrées.sort((a, b) => a.priceValue - b.priceValue);
+    annoncesFiltrees.sort((a, b) => a.priceValue - b.priceValue);
   } else if (tri === 'prix-desc') {
-    filtrées.sort((a, b) => b.priceValue - a.priceValue);
+    annoncesFiltrees.sort((a, b) => b.priceValue - a.priceValue);
   } else if (tri === 'annee-desc') {
-    filtrées.sort((a, b) => b.year - a.year);
+    annoncesFiltrees.sort((a, b) => b.year - a.year);
   } else if (tri === 'annee-asc') {
-    filtrées.sort((a, b) => a.year - b.year);
+    annoncesFiltrees.sort((a, b) => a.year - b.year);
   }
 
-  afficherAnnonces(filtrées);
+  indexAffichage = 0;
+  document.querySelector('.annonces').innerHTML = ''; // vide tout
+  chargerPlus(); // charge les premiers 10
 }
+
 
 // Nouvelle ligne : pour le tri aussi
 document.getElementById('tri').addEventListener('change', appliquerFiltres);
