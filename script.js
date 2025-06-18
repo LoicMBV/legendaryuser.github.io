@@ -33,15 +33,30 @@ function afficherAnnonces(annonces) {
 function appliquerFiltres() {
   const marque = document.getElementById('filtre-marque').value;
   const moteur = document.getElementById('filtre-motorisation').value;
+  const tri = document.getElementById('tri').value;
 
-  const filtrées = allAnnonces.filter((a) => {
+  let filtrées = allAnnonces.filter((a) => {
     const okMarque = marque === '' || a.title.includes(marque);
     const okMoteur = moteur === '' || a.engine === moteur;
     return okMarque && okMoteur;
   });
 
+  // Tri
+  if (tri === 'prix-asc') {
+    filtrées.sort((a, b) => a.priceValue - b.priceValue);
+  } else if (tri === 'prix-desc') {
+    filtrées.sort((a, b) => b.priceValue - a.priceValue);
+  } else if (tri === 'annee-desc') {
+    filtrées.sort((a, b) => b.year - a.year);
+  } else if (tri === 'annee-asc') {
+    filtrées.sort((a, b) => a.year - b.year);
+  }
+
   afficherAnnonces(filtrées);
 }
+
+// Nouvelle ligne : pour le tri aussi
+document.getElementById('tri').addEventListener('change', appliquerFiltres);
 
 // Quand les filtres changent, on applique
 document.getElementById('filtre-marque').addEventListener('change', appliquerFiltres);
