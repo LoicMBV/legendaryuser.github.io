@@ -17,28 +17,41 @@
     </div>
   </header>
 
-  <main>
-    <section class="filtres">
-  <select id="filtre-marque">
-    <option value="">Toutes les marques</option>
-    <option value="Ferrari">Ferrari</option>
-    <option value="Lamborghini">Lamborghini</option>
-    <option value="Bugatti">Bugatti</option>
-    <option value="McLaren">McLaren</option>
-  </select>
+<div class="contenu">
+  <aside class="filtres">
+    <h3>Filtres</h3>
+    <select id="filtre-marque">
+      <option value="">Toutes les marques</option>
+      <option value="Ferrari">Ferrari</option>
+      <option value="Lamborghini">Lamborghini</option>
+      <option value="Bugatti">Bugatti</option>
+      <option value="McLaren">McLaren</option>
+    </select>
 
-  <select id="filtre-motorisation">
-    <option value="">Toutes les motorisations</option>
-    <option value="Essence">Essence</option>
-    <option value="Hybride">Hybride</option>
-    <option value="Électrique">Électrique</option>
-  </select>
-</section>
+    <select id="filtre-motorisation">
+      <option value="">Toutes les motorisations</option>
+      <option value="Essence">Essence</option>
+      <option value="Hybride">Hybride</option>
+      <option value="Électrique">Électrique</option>
+    </select>
+  </aside>
 
-    <section class="annonces">
-       <!-- Les annonces vont être générées ici -->
-    </section>
+  <main class="annonces-section">
+    <div class="tri">
+      <label for="tri">Trier par :</label>
+      <select id="tri">
+        <option value="">Par défaut</option>
+        <option value="prix-asc">Prix croissant</option>
+        <option value="prix-desc">Prix décroissant</option>
+        <option value="annee-desc">Année (récent → ancien)</option>
+        <option value="annee-asc">Année (ancien → récent)</option>
+      </select>
+    </div>
+
+    <section class="annonces"></section>
   </main>
+</div>
+
 
   <footer>
     <p>&copy; 2025 Legendary Autosport — Passion & Performance</p>
