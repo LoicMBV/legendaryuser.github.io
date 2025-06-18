@@ -1,3 +1,7 @@
+let annoncesFiltrees = [];
+let indexAffichage = 0;
+const chunkSize = 10;
+
 let allAnnonces = []; // on garde toutes les annonces ici (pour filtrer)
 
 async function loadAnnonces() {
