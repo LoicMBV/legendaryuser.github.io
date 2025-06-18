@@ -6,14 +6,13 @@
 }
 
 body {
-  background-color: #0a0a0a;
-  color: #d8fe00;
+  background-color: #ffffff;
 }
 
 header {
-  background: #1a1a1a;
+  background: #daffda;
   padding: 20px 0;
-  border-bottom: 2px solid #333;
+  border-bottom: 2px solid #a2ffa2;
 }
 
 .container {
@@ -46,16 +45,15 @@ main {
 }
 
 .annonce {
-  background-color: #1a1a1a;
+  background-color: #a2ffa2;
   border-radius: 12px;
-  border: 1px solid #003322;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   overflow: hidden;
 }
 
 .annonce:hover {
   transform: scale(1.02);
-  box-shadow: 0 0 10px #00ff99;
+  box-shadow: 0 0 10px #eaeaea;
 }
 
 .annonce img {
@@ -100,9 +98,9 @@ footer {
 /* Filtres colonne gauche */
 .filtres {
   width: 220px;
-  background-color: #1a1a1a;
-  border: 1px solid #003322;
-  color: #99ffcc;
+  background-color: #a2ffa2;
+  border: 1px solid #a2ffa2;
+  color: #a2ffa2;
   padding: 1rem;
   box-shadow: 0 0 10px rgba(0,0,0,0.05);
 }
@@ -117,7 +115,7 @@ footer {
   margin-bottom: 1rem;
   padding: 0.5rem;
   font-size: 0.95rem;
-  background-color: #2a2a2a;
+  background-color: #a2ffa2;
   color: #fff;
   border: none;
 }
@@ -138,7 +136,7 @@ footer {
 .tri select {
   padding: 0.4rem;
   font-size: 0.95rem;
-  background-color: #2a2a2a;
+  background-color: #a2ffa2;
   color: #fff;
   border: none;
 }
