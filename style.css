@@ -88,16 +88,7 @@ footer {
   font-size: 14px;
   color: #555;
 }
-.filtres {
-  display: flex;
-  gap: 1rem;
-  margin: 2rem;
-}
 
-.filtres select {
-  padding: 0.5rem;
-  font-size: 1rem;
-}
 .contenu {
   display: flex;
   gap: 2rem;
