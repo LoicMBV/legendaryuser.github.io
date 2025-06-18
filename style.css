@@ -98,3 +98,47 @@ footer {
   padding: 0.5rem;
   font-size: 1rem;
 }
+.contenu {
+  display: flex;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+/* Filtres colonne gauche */
+.filtres {
+  width: 220px;
+  background-color: #f3f3f3;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+.filtres h3 {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.filtres select {
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  font-size: 0.95rem;
+}
+
+/* Partie annonces */
+.annonces-section {
+  flex: 1;
+}
+
+.tri {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 1rem;
+  gap: 0.5rem;
+}
+
+.tri select {
+  padding: 0.4rem;
+  font-size: 0.95rem;
+}
