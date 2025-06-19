@@ -238,3 +238,8 @@ footer {
   color: #888;
   margin-top: 10px;
 }
+
+.mentions p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
