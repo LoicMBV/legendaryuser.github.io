@@ -30,64 +30,64 @@
     "priceValue": 3500000
   },
   {
-    "title": "McLaren Artura",
-    "image": "ICI METTRE URL IMAGE",
-    "year": 2023,
-    "engine": "Hybride",
-    "km": "500 km",
-    "price": "250 000 €",
-    "url": "ICI METTRE URL DE L'ANNONCE",
-    "priceValue": 250000
-  },
-  {
-    "title": "Porsche 911 GT3 RS",
-    "image": "ICI METTRE URL IMAGE",
-    "year": 2022,
-    "engine": "Essence",
-    "km": "2 000 km",
-    "price": "220 000 €",
-    "url": "ICI METTRE URL DE L'ANNONCE",
-    "priceValue": 220000
-  },
-  {
-    "title": "Aston Martin DBS Superleggera",
-    "image": "ICI METTRE URL IMAGE",
+    "title": "LAMBORGHINI Sian",
+    "image": "https://cache.hollmann.international/vehicle/25G0166/images/1/900/",
     "year": 2021,
-    "engine": "Essence",
-    "km": "3 500 km",
-    "price": "280 000 €",
-    "url": "ICI METTRE URL DE L'ANNONCE",
-    "priceValue": 280000
-  },
-  {
-    "title": "Koenigsegg Jesko",
-    "image": "ICI METTRE URL IMAGE",
-    "year": 2024,
-    "engine": "Essence",
-    "km": "100 km",
-    "price": "2 800 000 €",
-    "url": "ICI METTRE URL DE L'ANNONCE",
-    "priceValue": 2800000
-  },
-  {
-    "title": "Pagani Huayra Roadster",
-    "image": "ICI METTRE URL IMAGE",
-    "year": 2020,
     "engine": "V12",
-    "km": "1 800 km",
-    "price": "2 200 000 €",
-    "url": "ICI METTRE URL DE L'ANNONCE",
-    "priceValue": 2200000
+    "km": "120 km",
+    "price": "3 391 500 €",
+    "url": "https://hollmann.international/vehicle/25G0166/",
+    "priceValue": 3391500
   },
   {
-    "title": "Bugatti Veyron",
-    "image": "ICI METTRE URL IMAGE",
+    "title": "LAMBORGHINI Reventon Roadster",
+    "image": "https://cas01.autoscout24.ch/-/?640x2048/3/90/custom/497/10781497/0.jpg",
     "year": 2010,
-    "engine": "Essence",
-    "km": "100 km",
-    "price": "1 000 000 €",
-    "url": "ICI METTRE URL DE L'ANNONCE",
-    "priceValue": 1000000
+    "engine": "V12",
+    "km": "3 550 km",
+    "price": "1 988 500 CHF",
+    "url": "https://lamborghiniporrentruy.com/car/10781497/",
+    "priceValue": 2120000
+  },
+  {
+    "title": "LAMBORGHINI Countach",
+    "image": "https://cas01.autoscout24.ch/-/?640x2048/3/90/custom/454/11779454/627165826.JPG",
+    "year": 2024,
+    "engine": "V12",
+    "km": "590 km",
+    "price": "2 950 000 CHF",
+    "url": "https://lamborghiniporrentruy.com/car/11779454/",
+    "priceValue": 3150000
+  },
+  {
+    "title": "BUGATTI Chiron Sport",
+    "image": "https://cas01.autoscout24.ch/-/?640x2048/3/90/custom/773/11510773/684135376.JPG",
+    "year": 2020,
+    "engine": "W16",
+    "km": "10 999 km",
+    "price": "3 288 500 CHF",
+    "url": "https://lamborghiniporrentruy.com/car/11510773/",
+    "priceValue": 3500000
+  },
+  {
+    "title": "McLAREN P1",
+    "image": "https://www.kessel.ch/immaginiAuto/kes_mclaren_6.jpg",
+    "year": 2014,
+    "engine": "V8",
+    "km": "1 050 km",
+    "price": "1 350 000 CHF",
+    "url": "https://www.kessel.ch/en/mclaren.htm",
+    "priceValue": 1440000
+  },
+  {
+    "title": "KOENIGSEGG Regera",
+    "image": "https://www.kessel.ch/immaginiAuto/kes_koenigsegg_regera_1.jpg",
+    "year": 2021,
+    "engine": "V8",
+    "km": "3200 km",
+    "price": "3 300 000 CHF",
+    "url": "https://www.kessel.ch/en/koenigsegg_regera.htm",
+    "priceValue": 3500000
   },
   {
     "title": "Ferrari LaFerrari",
@@ -100,14 +100,14 @@
     "priceValue": 6500000
   },
   {
-    "title": "Test Data",
-    "image": "ICI METTRE URL IMAGE",
-    "year": 2024,
-    "engine": "Essence",
-    "km": "100 km",
-    "price": "2 800 000 €",
-    "url": "ICI METTRE URL DE L'ANNONCE",
-    "priceValue": 2800000
+    "title": "Pagani Huayra Roadster",
+    "image": "https://www.classicdriver.com/cdn-cgi/image/format=auto,fit=cover,width=1920,height=1029/sites/default/files/users/42606/cars_images/feed_501562/0e906ae386b44485e98c23b643255c37.jpeg?1750332187",
+    "year": 2019,
+    "engine": "V12",
+    "km": "1067km",
+    "price": "4 099 947 $",
+    "url": "https://www.classicdriver.com/en/car/pagani/huayra/2019/1056861",
+    "priceValue": 3600000
   },
   {
     "title": "Aston Martin DBR22",
