@@ -32,12 +32,13 @@ header {
   font-weight: 600;
   color: #000000;
   text-transform: uppercase;
+  font-transform:'Nunito Sans';
 }
 
 .logo-bold {
   font-weight: 700;
   color: #f90000;
-  font-family: 'Mrs Saint Delafield', cursive;
+  font-family: 'Nunito Sans';
   text-transform: uppercase;
 }
 
