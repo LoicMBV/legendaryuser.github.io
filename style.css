@@ -52,7 +52,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #00a878;
+  color: #f93c3c;
 }
 
 /* MAIN */
@@ -143,7 +143,7 @@ main {
 
 .filtres select:focus {
   outline: none;
-  border-color: #00a878;
+  border-color: #f93c3c;
 }
 
 .annonces-section {
@@ -169,7 +169,7 @@ main {
 }
 
 .tri select:focus {
-  border-color: #00a878;
+  border-color: #f93c3c;
   outline: none;
 }
 
