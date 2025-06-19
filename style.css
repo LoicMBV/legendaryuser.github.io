@@ -182,3 +182,37 @@ footer {
   background-color: #f1f1f1;
   margin-top: 40px;
 }
+
+
+/* --- RESPONSIVE --- */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0 20px;
+  }
+
+  nav a {
+    display: block;
+    margin: 10px 0;
+  }
+
+  .contenu {
+    flex-direction: column;
+    padding: 1rem;
+  }
+
+  .filtres {
+    width: 100%;
+    margin-bottom: 1.5rem;
+  }
+
+  .tri {
+    justify-content: center;
+  }
+
+  .annonces {
+    grid-template-columns: 1fr;
+  }
+}
