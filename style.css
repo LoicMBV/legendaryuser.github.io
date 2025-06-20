@@ -116,35 +116,54 @@ main {
   padding: 2rem;
 }
 
-.filtres {
-  flex: 0 0 240px;
-  background-color: #ffffff;
-  border: 1px solid #e1e1e1;
-  border-radius: 8px;
-  padding: 1rem;
+.filtres-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  background: #f8f8f8;
+  padding: 20px;
+  border-radius: 16px;
+  margin-bottom: 30px;
 }
 
-.filtres h3 {
-  margin-bottom: 1rem;
-  font-size: 1.1rem;
-  color: #333;
+.filtres-container h2 {
+  flex-basis: 100%;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #222;
 }
 
-.filtres select {
-  width: 100%;
-  margin-bottom: 1rem;
-  padding: 0.5rem;
+.filtre-bloc {
+  display: flex;
+  flex-direction: column;
+  min-width: 180px;
+  padding: 10px 0;
+}
+
+.filtre-titre {
+  font-weight: 600;
+  margin-bottom: 6px;
+  font-size: 1rem;
+  color: #444;
+}
+
+.filtre-bloc label {
+  margin-bottom: 4px;
   font-size: 0.95rem;
-  background-color: #fff;
-  color: #111;
-  border: 1px solid #ccc;
-  border-radius: 5px;
+  color: #333;
+  cursor: pointer;
 }
 
-.filtres select:focus {
-  outline: none;
-  border-color: #f93c3c;
+.filtre-bloc input[type="checkbox"] {
+  margin-right: 6px;
 }
+
+.filtre-bloc select {
+  padding: 6px;
+  font-size: 0.95rem;
+  margin-top: 6px;
+}
+
 
 .annonces-section {
   flex: 1;
