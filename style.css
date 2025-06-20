@@ -21,7 +21,7 @@ header {
 }
 
 .container {
-  max-width: 1900px;
+  max-width: 2500px;
   margin: 0 auto;
   padding: 0 20px;
   display: flex;
@@ -80,7 +80,7 @@ nav a:hover {
 .contenu {
   display: flex;
   gap: 2rem;
-  max-width: 1900px;
+  max-width: 2500px;
   margin: 0 auto;
   padding: 20px;
 }
@@ -89,8 +89,6 @@ nav a:hover {
 .filtres {
   width: 280px;
   flex-shrink: 0;
-  margin-left: 0;
-  padding-left: 0;
 }
 
 .filtres-container {
