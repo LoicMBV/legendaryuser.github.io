@@ -33,78 +33,76 @@
   
 <div class="contenu">
   <aside class="filtres">
-  <div class="tri">
-    <label for="tri">Trier par :</label>
+<div class="filtres-container">
+  <div class="filtre-bloc">
+    <p class="filtre-titre">Trier par</p>
     <select id="tri">
-        <option value="">Par défaut</option>
-        <option value="prix-asc">Prix croissant</option>
-        <option value="prix-desc">Prix décroissant</option>
-        <option value="puissance-asc">Puissance croissante</option>
-        <option value="puissance-desc">Puissance décroissante</option>
-        <option value="malus-asc">Malus croissant</option>
-        <option value="malus-desc">Malus décroissant</option>
-
+      <option value="">-- Aucun tri --</option>
+      <option value="prix-asc">Prix croissant</option>
+      <option value="prix-desc">Prix décroissant</option>
+      <option value="puissance-asc">Puissance croissante</option>
+      <option value="puissance-desc">Puissance décroissante</option>
+      <option value="malus-asc">Malus croissant</option>
+      <option value="malus-desc">Malus décroissant</option>
     </select>
   </div>
-    <h3>Filtres :</h3>
   
-<!-- 📦 MARQUE -->
-<div id="filtre-marque">
-  <h3>Marque</h3>
-  <label><input type="checkbox" value="Porsche"> Porsche</label><br>
-  <label><input type="checkbox" value="Ferrari"> Ferrari</label><br>
-  <label><input type="checkbox" value="Lamborghini"> Lamborghini</label><br>
-  <label><input type="checkbox" value="McLaren"> McLaren</label><br>
+  <h2>Filtres</h2>
+
+  <div class="filtre-bloc" id="filtre-marque">
+    <p class="filtre-titre">Marque</p>
+    <label><input type="checkbox" value="Porsche"> Porsche</label>
+    <label><input type="checkbox" value="Ferrari"> Ferrari</label>
+    <label><input type="checkbox" value="Lamborghini"> Lamborghini</label>
+    <label><input type="checkbox" value="McLaren"> McLaren</label>
+  </div>
+
+  <div class="filtre-bloc" id="filtre-motorisation">
+    <p class="filtre-titre">Motorisation</p>
+    <label><input type="checkbox" value="V8"> V8</label>
+    <label><input type="checkbox" value="V10"> V10</label>
+    <label><input type="checkbox" value="V12"> V12</label>
+    <label><input type="checkbox" value="Flat-6"> Flat-6</label>
+  </div>
+
+  <div class="filtre-bloc" id="filtre-energie">
+    <p class="filtre-titre">Énergie</p>
+    <label><input type="checkbox" value="Essence"> Essence</label>
+    <label><input type="checkbox" value="Hybride"> Hybride</label>
+    <label><input type="checkbox" value="Électrique"> Électrique</label>
+  </div>
+
+  <div class="filtre-bloc" id="filtre-categorie">
+    <p class="filtre-titre">Catégorie</p>
+    <label><input type="checkbox" value="Coupé"> Coupé</label>
+    <label><input type="checkbox" value="Cabriolet"> Cabriolet</label>
+    <label><input type="checkbox" value="Berline"> Berline</label>
+  </div>
+
+  <div class="filtre-bloc" id="filtre-boite">
+    <p class="filtre-titre">Boîte</p>
+    <label><input type="checkbox" value="automatique"> Automatique</label>
+    <label><input type="checkbox" value="manuelle"> Manuelle</label>
+  </div>
+
+  <div class="filtre-bloc" id="filtre-transmission">
+    <p class="filtre-titre">Transmission</p>
+    <label><input type="checkbox" value="AWD"> AWD</label>
+    <label><input type="checkbox" value="RWD"> RWD</label>
+    <label><input type="checkbox" value="FWD"> FWD</label>
+  </div>
+
+  <div class="filtre-bloc" id="filtre-position">
+    <p class="filtre-titre">Position moteur</p>
+    <label><input type="checkbox" value="Centrale arrière"> Centrale arrière</label>
+    <label><input type="checkbox" value="Centrale avant"> Centrale avant</label>
+    <label><input type="checkbox" value="Avant"> Avant</label>
+    <label><input type="checkbox" value="Arrière"> Arrière</label>
+  </div>
+
+
 </div>
 
-<!-- 🔧 MOTORISATION -->
-<div id="filtre-motorisation">
-  <h3>Motorisation</h3>
-  <label><input type="checkbox" value="V8"> V8</label><br>
-  <label><input type="checkbox" value="V10"> V10</label><br>
-  <label><input type="checkbox" value="V12"> V12</label><br>
-  <label><input type="checkbox" value="Flat-6"> Flat-6</label><br>
-</div>
-
-<!-- ⚡ ÉNERGIE -->
-<div id="filtre-energie">
-  <h3>Énergie</h3>
-  <label><input type="checkbox" value="Essence"> Essence</label><br>
-  <label><input type="checkbox" value="Hybride"> Hybride</label><br>
-  <label><input type="checkbox" value="Électrique"> Électrique</label><br>
-</div>
-
-<!-- 🚗 CATÉGORIE -->
-<div id="filtre-categorie">
-  <h3>Catégorie</h3>
-  <label><input type="checkbox" value="Coupé"> Coupé</label><br>
-  <label><input type="checkbox" value="Cabriolet"> Cabriolet</label><br>
-  <label><input type="checkbox" value="Berline"> Berline</label><br>
-</div>
-
-<!-- ⚙️ BOÎTE -->
-<div id="filtre-boite">
-  <h3>Boîte</h3>
-  <label><input type="checkbox" value="automatique"> Automatique</label><br>
-  <label><input type="checkbox" value="manuelle"> Manuelle</label><br>
-</div>
-
-<!-- 🔁 TRANSMISSION -->
-<div id="filtre-transmission">
-  <h3>Transmission</h3>
-  <label><input type="checkbox" value="AWD"> AWD</label><br>
-  <label><input type="checkbox" value="RWD"> RWD</label><br>
-  <label><input type="checkbox" value="FWD"> FWD</label><br>
-</div>
-
-<!-- 🛠️ POSITION DU MOTEUR -->
-<div id="filtre-position">
-  <h3>Position du moteur</h3>
-  <label><input type="checkbox" value="Centrale arrière"> Centrale arrière</label><br>
-  <label><input type="checkbox" value="Centrale avant"> Centrale avant</label><br>
-  <label><input type="checkbox" value="Avant"> Avant</label><br>
-  <label><input type="checkbox" value="Arrière"> Arrière</label><br>
-</div>
     </aside>
 
     <section class="annonces"></section>
