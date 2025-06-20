@@ -48,13 +48,10 @@ nav a {
   margin-left: 20px;
   font-weight: 500;
   transition: color 0.3s ease;
-  border-bottom: 1.5px solid transparent; /* ajout soulignement initial transparent */
-  padding-bottom: 2px;
 }
 
 nav a:hover {
   color: #f90000;
-  border-bottom-color: #f90000; /* soulignement rouge au hover */
 }
 
 /* INTRO */
@@ -85,19 +82,18 @@ nav a:hover {
   gap: 2rem;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 2rem 0 2rem 0; /* padding top, right, bottom, left = gauche à 0 */
+  padding: 2rem 0.5rem 2rem 0.5rem; /* padding top, right, bottom, left */
 }
 
 /* FILTRES */
 .filtres {
   width: 280px;
   flex-shrink: 0;
-  padding-left: 0; /* aucun padding à gauche */
 }
 
 .filtres-container {
   background: #fff;
-  padding: 0.5rem; /* padding réduit */
+  padding: 20px;
   border-radius: 12px;
   border: 1px solid #e2e2e2;
 }
@@ -182,8 +178,6 @@ select:focus {
   font-size: 18px;
   color: #222;
   margin-bottom: 5px;
-  border-bottom: 2px solid #f90000; /* soulignement rouge */
-  padding-bottom: 4px;
 }
 
 .info p {
@@ -252,7 +246,6 @@ footer {
 
   .filtres {
     width: 100%;
-    padding-left: 0;
   }
 
   .filtres-container {
