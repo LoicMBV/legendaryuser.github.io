@@ -14,10 +14,6 @@ async function loadAnnonces() {
 
 function afficherAnnonces(annonces) {
   const container = document.querySelector('.annonces');
-  // PAS de container.innerHTML ici ! sinon ça efface les précédentes
-
-function afficherAnnonces(annonces) {
-  const container = document.querySelector('.annonces');
 
   annonces.forEach((annonce) => {
     const div = document.createElement('div');
