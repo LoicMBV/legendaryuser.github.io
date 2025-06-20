@@ -32,6 +32,17 @@
   
 <div class="contenu">
   <aside class="filtres">
+    <aside class="filtres">
+  <div class="tri">
+    <label for="tri">Trier par :</label>
+    <select id="tri">
+      <option value="">Par défaut</option>
+      <option value="prix-asc">Prix croissant</option>
+      <option value="prix-desc">Prix décroissant</option>
+      <option value="annee-desc">Année (récent → ancien)</option>
+      <option value="annee-asc">Année (ancien → récent)</option>
+    </select>
+  </div>
     <h3>Filtres</h3>
     <select id="filtre-marque">
       <option value="">Toutes les marques</option>
@@ -52,19 +63,7 @@
       <option value="V12">V12</option>
       <option value="W16">W16</option>
     </select>
-  </aside>
-
-  
-    <div class="tri">
-      <label for="tri">Trier par :</label>
-      <select id="tri">
-        <option value="">Par défaut</option>
-        <option value="prix-asc">Prix croissant</option>
-        <option value="prix-desc">Prix décroissant</option>
-        <option value="annee-desc">Année (récent → ancien)</option>
-        <option value="annee-asc">Année (ancien → récent)</option>
-      </select>
-    </div>
+    </aside>
 
     <section class="annonces"></section>
   </div>
