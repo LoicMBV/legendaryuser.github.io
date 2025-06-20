@@ -22,7 +22,7 @@ header {
 
 .container {
   max-width: 1200px;
-  margin: 0 auto;
+  
   padding: 0 40px;
   display: flex;
   justify-content: space-between;
@@ -82,7 +82,7 @@ nav a:hover {
   gap: 2rem;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 2rem 0.5rem 2rem 0.5rem; /* padding top, right, bottom, left */
+  padding: 20px;
 }
 
 /* FILTRES */
