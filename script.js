@@ -2,15 +2,14 @@ let annoncesFiltrees = [];
 let indexAffichage = 0;
 const chunkSize = 12;
 
-let allAnnonces = []; // on garde toutes les annonces ici (pour filtrer)
+let allAnnonces = [];
 
 async function loadAnnonces() {
   const response = await fetch('data.json');
   const annonces = await response.json();
   allAnnonces = annonces;
-  appliquerFiltres(); // pour charger les premiers 10 automatiquement
+  appliquerFiltres();
 }
-
 
 function afficherAnnonces(annonces) {
   const container = document.querySelector('.annonces');
@@ -35,30 +34,34 @@ function afficherAnnonces(annonces) {
   });
 }
 
-
+// 🧠 Fonction utilitaire pour récupérer les cases cochées d'un groupe
+function getCheckedValues(id) {
+  return Array.from(document.querySelectorAll(`#${id} input[type="checkbox"]:checked`)).map(el => el.value);
+}
 
 function appliquerFiltres() {
-  const marque = document.getElementById('filtre-marque').value;
-  const moteur = document.getElementById('filtre-motorisation').value;
-  const energie = document.getElementById('filtre-energie').value;
-  const categorie = document.getElementById('filtre-categorie').value;
-  const boite = document.getElementById('filtre-boite').value;
-  const transmission = document.getElementById('filtre-transmission').value;
-  const position = document.getElementById('filtre-position').value;
+  const marques = getCheckedValues('filtre-marque');
+  const moteurs = getCheckedValues('filtre-motorisation');
+  const energies = getCheckedValues('filtre-energie');
+  const categories = getCheckedValues('filtre-categorie');
+  const boites = getCheckedValues('filtre-boite');
+  const transmissions = getCheckedValues('filtre-transmission');
+  const positions = getCheckedValues('filtre-position');
   const tri = document.getElementById('tri').value;
 
   annoncesFiltrees = allAnnonces.filter((a) => {
-    const okMarque = marque === '' || a.title.toLowerCase().includes(marque.toLowerCase());
-    const okMoteur = moteur === '' || a.engine === moteur;
-    const okEnergie = energie === '' || a.energy === energie;
-    const okCategorie = categorie === '' || a.category === categorie;
-    const okBoite = boite === '' || a.gearbox === boite;
-    const okTransmission = transmission === '' || a.drivetrain === transmission;
-    const okPosition = position === '' || a.enginePosition === position;
+    const okMarque = marques.length === 0 || marques.some(m => a.title.toLowerCase().includes(m.toLowerCase()));
+    const okMoteur = moteurs.length === 0 || moteurs.includes(a.engine);
+    const okEnergie = energies.length === 0 || energies.includes(a.energy);
+    const okCategorie = categories.length === 0 || categories.includes(a.category);
+    const okBoite = boites.length === 0 || boites.includes(a.gearbox);
+    const okTransmission = transmissions.length === 0 || transmissions.includes(a.drivetrain);
+    const okPosition = positions.length === 0 || positions.includes(a.enginePosition);
 
     return okMarque && okMoteur && okEnergie && okCategorie && okBoite && okTransmission && okPosition;
   });
 
+  // Tri
   if (tri === 'prix-asc') {
     annoncesFiltrees.sort((a, b) => a.priceValue - b.priceValue);
   } else if (tri === 'prix-desc') {
@@ -84,16 +87,15 @@ function chargerPlus() {
   indexAffichage += chunkSize;
 }
 
-document.getElementById('filtre-energie').addEventListener('change', appliquerFiltres);
-document.getElementById('filtre-categorie').addEventListener('change', appliquerFiltres);
-document.getElementById('filtre-boite').addEventListener('change', appliquerFiltres);
-document.getElementById('filtre-transmission').addEventListener('change', appliquerFiltres);
-document.getElementById('filtre-position').addEventListener('change', appliquerFiltres);
-document.getElementById('tri').addEventListener('change', appliquerFiltres);
-document.getElementById('filtre-marque').addEventListener('change', appliquerFiltres);
-document.getElementById('filtre-motorisation').addEventListener('change', appliquerFiltres);
+// ✅ Ajout de tous les écouteurs de filtres multiples dynamiquement
+['filtre-marque', 'filtre-motorisation', 'filtre-energie', 'filtre-categorie', 'filtre-boite', 'filtre-transmission', 'filtre-position']
+  .forEach(id => {
+    document.getElementById(id).addEventListener('change', appliquerFiltres);
+  });
 
-loadAnnonces(); // on lance tout au début
+document.getElementById('tri').addEventListener('change', appliquerFiltres);
+
+loadAnnonces();
 
 window.addEventListener('scroll', () => {
   const nearBottom = window.innerHeight + window.scrollY >= document.body.offsetHeight - 100;
