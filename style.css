@@ -22,7 +22,7 @@ header {
 
 .container {
   max-width: 1200px;
-  
+  margin: 0 auto;
   padding: 0 40px;
   display: flex;
   justify-content: space-between;
@@ -89,6 +89,8 @@ nav a:hover {
 .filtres {
   width: 280px;
   flex-shrink: 0;
+  margin-left: 0;
+  padding-left: 0;
 }
 
 .filtres-container {
