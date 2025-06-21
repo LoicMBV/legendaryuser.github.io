@@ -66,5 +66,22 @@
   "gearbox": "automatique",
   "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/models/911/911-gt3-rs/911-gt3-rs/"
+},
+  {
+  "title": "Audi RS 3 Sportback",
+  "image": "",
+  "energy": "Essence",
+  "engine": "I5",
+  "power" : "400 ch",
+  "powerValue": 400,
+  "price": "75 600 €",
+  "priceValue": 75600,
+  "malus": "70 000 €",
+  "malusValue": 70000,
+  "category": "Berline",
+  "drivetrain": "AWD",
+  "gearbox": "automatique",
+  "enginePosition": "Avant",
+  "url": "https://www.audi.fr/fr/gamme/a3/rs-3-sportback/"
 }
 ]
