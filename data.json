@@ -100,5 +100,22 @@
   "gearbox": "automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/passengercars/models/coupe/amg-gt-2-door/overview.html"
+},
+  {
+  "title": "McLaren 750S",
+  "image": "",
+  "energy": "Essence",
+  "engine": "V8",
+  "power" : "750 ch",
+  "powerValue": 750,
+  "price": "- €",
+  "priceValue": 0,
+  "malus": "70 000 €",
+  "malusValue": 70000,
+  "category": "Coupé",
+  "drivetrain": "RWD",
+  "gearbox": "automatique",
+  "enginePosition": "Arrière",
+  "url": "https://cars.mclaren.com/fr-fr/750s"
 }
 ]
