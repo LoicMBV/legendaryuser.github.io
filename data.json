@@ -246,13 +246,13 @@
   "powerValue": 1800,
   "price": "4 560 000 €",
   "priceValue": 4560000,
-  "malus": "0 €",
+  "malus": "- €",
   "malusValue": 0,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "automatique",
   "enginePosition": "Arrière",
-  "url": ""
+  "url": "https://www.bugatti.com/fr"
 },
       {
   "title": "McLaren 750S",
