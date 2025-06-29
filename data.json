@@ -1,7 +1,7 @@
 [
     {
   "title": "Alpine A290 GT/GT PREMIUM",
-  "image": "images/Alpine A290 GT Matte Tornado Grey.jpg",
+  "image": "images/Alpine A290 GT Matte Tornado Grey.webp",
   "energy": "Electrique",
   "engine": "-",
   "power" : "180 ch",
@@ -18,7 +18,7 @@
 },
   {
   "title": "Alpine A290 GT PERFORMANCE/GTS",
-  "image": "images/Alpine A290 GTS - La Bleue Première Edition.jpg",
+  "image": "images/Alpine A290 GTS - La Bleue Première Edition.webp",
   "energy": "Electrique",
   "engine": "-",
   "power" : "220 ch",
@@ -35,7 +35,7 @@
 },
       {
   "title": "Alpine A110",
-  "image": "images/Alpine A110.jpeg",
+  "image": "images/Alpine A110.webp",
   "energy": "Essence",
   "engine": "I4",
   "power" : "252 ch",
@@ -52,7 +52,7 @@
 },
     {
   "title": "Alpine A110 GTS",
-  "image": "images/ALPINE A110 GTS.jpg",
+  "image": "images/ALPINE A110 GTS.webp",
   "energy": "Essence",
   "engine": "I4",
   "power" : "300 ch",
@@ -69,7 +69,7 @@
 },
       {
   "title": "Alpine A110 R70",
-  "image": "images/ALPINE A110 R 70.jpg",
+  "image": "images/ALPINE A110 R 70.webp",
   "energy": "Essence",
   "engine": "I4",
   "power" : "300 ch",
@@ -86,7 +86,7 @@
 },
     {
   "title": "Aston Martin Vantage",
-  "image": "images/AstonMartinVantage©PhotoMaxEarey-9856.jpg",
+  "image": "images/AstonMartinVantage©PhotoMaxEarey-9856.webp",
   "energy": "Essence",
   "engine": "V8",
   "power" : "665 ch",
@@ -103,7 +103,7 @@
 },
         {
   "title": "Aston Martin DB12",
-  "image": "images/Aston_Martin_DB12_-_Satin_Aluminite_Silver_30.jpg",
+  "image": "images/Aston_Martin_DB12_-_Satin_Aluminite_Silver_30.webp",
   "energy": "Essence",
   "engine": "V8",
   "power" : "680 ch",
@@ -120,7 +120,7 @@
 },
             {
   "title": "Aston Martin Vanquish",
-  "image": "images/Aston_Martin_Vanquish_6.jpg",
+  "image": "images/Aston_Martin_Vanquish_6.webp",
   "energy": "Essence",
   "engine": "V12",
   "power" : "835 ch",
@@ -137,7 +137,7 @@
 },
  {
   "title": "Aston Martin DBX707",
-  "image": "images/Aston_Martin_DBX707__Satin_Neutron_White__67.jpg",
+  "image": "images/Aston_Martin_DBX707__Satin_Neutron_White__67.webp",
   "energy": "Essence",
   "engine": "V8",
   "power" : "707 ch",
