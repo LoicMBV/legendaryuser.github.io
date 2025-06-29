@@ -238,6 +238,23 @@
   "url": "https://www.bmw.fr/fr/tous-les-modeles/m-series/m5-series/bmw-m5-berline.html"
 },
       {
+  "title": "Bugatti Tourbillon",
+  "image": "images/.webp",
+  "energy": "Hybride",
+  "engine": "V16",
+  "power" : "1 800 ch",
+  "powerValue": 1800,
+  "price": "4 560 000 €",
+  "priceValue": 4560000,
+  "malus": "0 €",
+  "malusValue": 0,
+  "category": "Coupé",
+  "drivetrain": "AWD",
+  "gearbox": "automatique",
+  "enginePosition": "Arrière",
+  "url": ""
+},
+      {
   "title": "McLaren 750S",
   "image": "images/750s.webp",
   "energy": "Essence",
