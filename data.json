@@ -189,7 +189,7 @@
  {
   "title": "Audi RS e-tron GT/GT performance",
   "image": "images/famille_RS_e-tron_GT.webp",
-  "energy": "Essence",
+  "energy": "Electrique",
   "engine": "-",
   "power" : "856/925 ch",
   "powerValue": 856,
@@ -200,7 +200,7 @@
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "automatique",
-  "enginePosition": "Avant",
+  "enginePosition": "-",
   "url": "https://www.audi.fr/fr/"
 },
   {
@@ -278,8 +278,8 @@
   "engine": "V8",
   "power" : "750 ch",
   "powerValue": 750,
-  "price": "- €",
-  "priceValue": 0,
+  "price": "299 400 €",
+  "priceValue": 299400,
   "malus": "70 000 €",
   "malusValue": 70000,
   "category": "Coupé",
