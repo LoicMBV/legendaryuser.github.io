@@ -160,7 +160,7 @@ select:focus {
 }
 
 .annonce:hover {
-  outline: 1px solid #f90000;
+  outline: 2px solid #f90000;
 }
 
 .annonce img {
