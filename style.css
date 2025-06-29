@@ -160,8 +160,8 @@ select:focus {
 }
 
 .annonce:hover {
-  transform: scale(1.02);
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  outline: 2px solid #f90000;
+  outline-offset: -4px;;
 }
 
 .annonce img {
