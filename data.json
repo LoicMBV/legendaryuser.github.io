@@ -256,7 +256,7 @@
 },
   {
   "title": "Ferrari 296 GTB/GTS",
-  "image": "images/",
+  "image": "images/296-GTB-Assetto_Fiorano.webp",
   "energy": "Hybride",
   "engine": "V6",
   "power" : "830 ch",
@@ -273,7 +273,7 @@
 },
       {
   "title": "Ferrari 296 Speciale/Speciale A",
-  "image": "images/",
+  "image": "images/296Sp.webp",
   "energy": "Hybride",
   "engine": "V6",
   "power" : "880 ch",
@@ -290,7 +290,7 @@
 },
       {
   "title": "Ferrari Roma Spider",
-  "image": "images/",
+  "image": "images/Ferrari_Roma_Spider.webp",
   "energy": "Essence",
   "engine": "V8",
   "power" : "620 ch",
@@ -307,7 +307,7 @@
 },
   {
   "title": "Ferrari 12Cilindri/Spider",
-  "image": "images/",
+  "image": "images/New_Ferrari_V12.webp",
   "energy": "Essence",
   "engine": "V12",
   "power" : "830 ch",
@@ -324,7 +324,7 @@
 },
       {
   "title": "Ferrari SF90 Spider",
-  "image": "images/",
+  "image": "images/sf90-spider.webp",
   "energy": "hybride",
   "engine": "V8",
   "power" : "1 000 ch",
@@ -341,7 +341,7 @@
 },
           {
   "title": "Ferrari SF90 XX Stradale/Spider ",
-  "image": "images/",
+  "image": "images/sf90xx.webp",
   "energy": "hybride",
   "engine": "V8",
   "power" : "1 030 ch",
@@ -358,7 +358,7 @@
 },
   {
   "title": "Ferrari Purosangue",
-  "image": "images/",
+  "image": "images/ferrari-purosangue.webp",
   "energy": "Essence",
   "engine": "V12",
   "power" : "725 ch",
