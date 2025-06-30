@@ -1,6 +1,6 @@
 let annoncesFiltrees = [];
 let indexAffichage = 0;
-const chunkSize = 12;
+const chunkSize = 10;
 
 let allAnnonces = [];
 
