@@ -53,7 +53,7 @@ function appliquerFiltres() {
     const okMarque = marques.length === 0 || marques.some(m => a.title.toLowerCase().includes(m.toLowerCase()));
     const okMoteur = moteurs.length === 0 || moteurs.includes(a.engine);
     const okEnergie = energies.length === 0 || energies.includes(a.energy);
-    const okCategorie = categories.length === 0 || categories.includes(a.category);
+    const okCategorie = categories.length === 0 || categories.some(cat => a.category.toLowerCase().includes(cat.toLowerCase()));
     const okBoite = boites.length === 0 || boites.includes(a.gearbox);
     const okTransmission = transmissions.length === 0 || transmissions.includes(a.drivetrain);
     const okPosition = positions.length === 0 || positions.includes(a.enginePosition);
