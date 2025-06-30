@@ -271,6 +271,23 @@
   "enginePosition": "Avant",
   "url": "https://www.bentleymotors.com/en.html"
 },
+      {
+  "title": "BMW M2 Coupé",
+  "image": "images/",
+  "energy": "Essence",
+  "engine": "I6",
+  "power" : "480 ch",
+  "powerValue": 480,
+  "price": "86 800 €",
+  "priceValue": 86800,
+  "malus": "70 000 €",
+  "malusValue": 70000,
+  "category": "Coupé",
+  "drivetrain": "RWD",
+  "gearbox": "automatique / manuelle",
+  "enginePosition": "Avant",
+  "url": "https://www.bmw.fr/fr/accueil.html"
+},
   {
   "title": "BMW M2 CS",
   "image": "images/m2cs.webp",
@@ -287,6 +304,23 @@
   "gearbox": "automatique",
   "enginePosition": "Avant",
   "url": "https://www.bmw.fr/fr/tous-les-modeles/m-series/modeles-m-bmw-serie2/bmw-m2-coupe.html#caracteristiques-techniques"
+},
+      {
+  "title": "BMW M3 Compétition M xDrive",
+  "image": "images/",
+  "energy": "Essence",
+  "engine": "I6",
+  "power" : "530 ch",
+  "powerValue": 530,
+  "price": "122 100 €",
+  "priceValue": 122100,
+  "malus": "70 000 €",
+  "malusValue": 70000,
+  "category": "Berline",
+  "drivetrain": "AWD",
+  "gearbox": "automatique",
+  "enginePosition": "Avant",
+  "url": "https://www.bmw.fr/fr/tous-les-modeles/m-series/m5-series/bmw-m5-berline.html"
 },
   {
   "title": "BMW M5",
