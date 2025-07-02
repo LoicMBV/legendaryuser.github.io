@@ -175,6 +175,7 @@ select:focus {
   object-fit: cover;
   image-rendering: auto;
   -webkit-backface-visibility: hidden;
+  transform: translateZ(0);
 }
 
 .info {
