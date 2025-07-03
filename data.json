@@ -510,8 +510,8 @@
   "url": "https://www.ferrari.com/fr-FR"
 },
       {
-  "title": "Maserati Grecale",
-  "image": "images/",
+  "title": "Maserati Grecale GT",
+  "image": "images/MaseratiGrecaleGT.webp",
   "energy": "Essence",
   "engine": "I4",
   "power" : "300 ch",
@@ -528,7 +528,7 @@
 },
           {
   "title": "Maserati Grecale Modena",
-  "image": "images/",
+  "image": "images/MaseratiGrecaleModena.webp",
   "energy": "Essence",
   "engine": "I4",
   "power" : "330 ch",
@@ -545,7 +545,7 @@
 },
               {
   "title": "Maserati Grecale Trofeo",
-  "image": "images/",
+  "image": "images/MaseratiGrecaleTrofeo.webp",
   "energy": "Essence",
   "engine": "V6",
   "power" : "530 ch",
@@ -562,7 +562,7 @@
 },
                   {
   "title": "Maserati Grecale Folgore",
-  "image": "images/",
+  "image": "images/MaseratiGrecaleFolgore.webp",
   "energy": "Electrique",
   "engine": "-",
   "power" : "550 ch",
@@ -579,7 +579,7 @@
 },
     {
   "title": "Maserati GranTurismo",
-  "image": "images/",
+  "image": "images/MaseratiGranTurismoModena.webp",
   "energy": "Essence",
   "engine": "V6",
   "power" : "490 ch",
@@ -596,7 +596,7 @@
 },
     {
   "title": "Maserati GranTurismo Trofeo",
-  "image": "images/",
+  "image": "images/MaseratiGranTurismoTrofeo.webp",
   "energy": "Essence",
   "engine": "V6",
   "power" : "550 ch",
@@ -613,7 +613,7 @@
 },
         {
   "title": "Maserati GranTurismo Folgore",
-  "image": "images/",
+  "image": "images/MaseratiGranTurismoFolgore.webp",
   "energy": "Electrique",
   "engine": "-",
   "power" : "761 ch",
@@ -630,7 +630,7 @@
 },
      {
   "title": "Maserati GranCabrio",
-  "image": "images/",
+  "image": "images/maserati-grancabrio-490.webp",
   "energy": "Essence",
   "engine": "V6",
   "power" : "490 ch",
@@ -647,7 +647,7 @@
 },
     {
   "title": "Maserati GranCabrio Trofeo",
-  "image": "images/",
+  "image": "images/maserati-grancabrio-trofeo.webp",
   "energy": "Essence",
   "engine": "V6",
   "power" : "550 ch",
@@ -664,7 +664,7 @@
 },
             {
   "title": "Maserati GranCabrio Folgore",
-  "image": "images/",
+  "image": "images/maserati-grancabrio-trofeo.webp",
   "energy": "Electrique",
   "engine": "-",
   "power" : "761 ch",
@@ -681,7 +681,7 @@
 },
        {
   "title": "Maserati MC20",
-  "image": "images/",
+  "image": "images/MC20GialloGenio.webp",
   "energy": "Essence",
   "engine": "V6",
   "power" : "630 ch",
@@ -691,6 +691,23 @@
   "malus": "70 000 €",
   "malusValue": 70000,
   "category": "Coupé",
+  "drivetrain": "RWD",
+  "gearbox": "automatique",
+  "enginePosition": "Arrière",
+  "url": "https://www.maserati.com/fr/fr"
+},
+           {
+  "title": "Maserati MC20 Cielo",
+  "image": "images/maserati-mc20-cielo.webp",
+  "energy": "Essence",
+  "engine": "V6",
+  "power" : "630 ch",
+  "powerValue": 630,
+  "price": "265 400 €",
+  "priceValue": 265400,
+  "malus": "70 000 €",
+  "malusValue": 70000,
+  "category": "Cabriolet",
   "drivetrain": "RWD",
   "gearbox": "automatique",
   "enginePosition": "Arrière",
