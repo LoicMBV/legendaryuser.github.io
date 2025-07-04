@@ -12,7 +12,7 @@
   "malusValue": -2000,
   "category": "Citadine",
   "drivetrain": "FWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "-",
   "url": "https://www.alpinecars.fr/"
 },
@@ -29,7 +29,7 @@
   "malusValue": -2000,
   "category": "Citadine",
   "drivetrain": "FWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "-",
   "url": "https://www.alpinecars.fr/"
 },
@@ -46,7 +46,7 @@
   "malusValue": 3784,
   "category": "Coupé",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://www.alpinecars.fr/"
 },
@@ -63,7 +63,7 @@
   "malusValue": 5105,
   "category": "Coupé",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://www.alpinecars.fr/"
 },
@@ -80,7 +80,7 @@
   "malusValue": 4279,
   "category": "Coupé",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://www.alpinecars.fr/"
 },
@@ -97,7 +97,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.astonmartin.com/fr"
 },
@@ -114,7 +114,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.astonmartin.com/fr"
 },
@@ -131,7 +131,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.astonmartin.com/fr"
 },
@@ -148,7 +148,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.astonmartin.com/fr"
 },
@@ -165,7 +165,7 @@
   "malusValue": 70000,
   "category": "Berline",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.audi.fr/fr/"
 },
@@ -182,7 +182,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.audi.fr/fr/"
 },
@@ -199,7 +199,7 @@
   "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "-",
   "url": "https://www.audi.fr/fr/"
 },
@@ -216,7 +216,7 @@
   "malusValue": 0,
   "category": "Coupé / Cabriolet",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.bentleymotors.com/en.html"
 },
@@ -233,7 +233,7 @@
   "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.bentleymotors.com/en.html"
 },
@@ -250,7 +250,7 @@
   "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.bentleymotors.com/en.html"
 },
@@ -267,7 +267,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.bentleymotors.com/en.html"
 },
@@ -284,7 +284,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
-  "gearbox": "automatique / manuelle",
+  "gearbox": "Automatique / Manuelle",
   "enginePosition": "Avant",
   "url": "https://www.bmw.fr/fr/accueil.html"
 },
@@ -301,7 +301,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.bmw.fr/fr/tous-les-modeles/m-series/modeles-m-bmw-serie2/bmw-m2-coupe.html#caracteristiques-techniques"
 },
@@ -318,7 +318,7 @@
   "malusValue": 70000,
   "category": "Berline",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.bmw.fr/fr/accueil.html"
 },
@@ -335,7 +335,7 @@
   "malusValue": 70000,
   "category": "Coupé / Cabriolet",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.bmw.fr/fr/accueil.html"
 },
@@ -352,7 +352,7 @@
   "malusValue": 0,
   "category": "Berline / Break",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.bmw.fr/fr/accueil.html"
 },
@@ -369,7 +369,7 @@
   "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.bmw.fr/fr/accueil.html"
 },
@@ -386,7 +386,7 @@
   "malusValue": 0,
   "category": "Coupé",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://www.bugatti.com/fr"
 },
@@ -403,7 +403,7 @@
   "malusValue": 2918,
   "category": "Coupé / Cabriolet",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://www.ferrari.com/fr-FR"
 },
@@ -420,7 +420,7 @@
   "malusValue": 0,
   "category": "Coupé / Cabriolet",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://www.ferrari.com/fr-FR"
 },
@@ -437,7 +437,7 @@
   "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.ferrari.com/fr-FR"
 },
@@ -454,7 +454,7 @@
   "malusValue": 70000,
   "category": "Coupé / Cabriolet",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.ferrari.com/fr-FR"
 },
@@ -471,7 +471,7 @@
   "malusValue": 4543,
   "category": "Cabriolet",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://www.ferrari.com/fr-FR"
 },
@@ -488,7 +488,7 @@
   "malusValue": 10692,
   "category": "Coupé / Cabriolet",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://www.ferrari.com/fr-FR"
 },
@@ -505,7 +505,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.ferrari.com/fr-FR"
 },
@@ -522,7 +522,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.maserati.com/fr/fr"
 },
@@ -539,7 +539,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.maserati.com/fr/fr"
 },
@@ -556,7 +556,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.maserati.com/fr/fr"
 },
@@ -573,7 +573,7 @@
   "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "-",
   "url": "https://www.maserati.com/fr/fr"
 },
@@ -590,7 +590,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.maserati.com/fr/fr"
 },
@@ -607,7 +607,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.maserati.com/fr/fr"
 },
@@ -624,7 +624,7 @@
   "malusValue": 0,
   "category": "Coupé",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "-",
   "url": "https://www.maserati.com/fr/fr"
 },
@@ -641,7 +641,7 @@
   "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.maserati.com/fr/fr"
 },
@@ -658,7 +658,7 @@
   "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.maserati.com/fr/fr"
 },
@@ -675,7 +675,7 @@
   "malusValue": 0,
   "category": "Cabriolet",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "-",
   "url": "https://www.maserati.com/fr/fr"
 },
@@ -692,7 +692,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://www.maserati.com/fr/fr"
 },
@@ -709,7 +709,7 @@
   "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://www.maserati.com/fr/fr"
 },
@@ -726,7 +726,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://www.maserati.com/fr/fr"
 },
@@ -743,7 +743,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://cars.mclaren.com/fr-fr"
 },
@@ -760,7 +760,7 @@
   "malusValue": 0,
   "category": "Coupé",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://cars.mclaren.com/fr-fr"
 },
@@ -777,7 +777,7 @@
   "malusValue": 0,
   "category": "Cabriolet",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://cars.mclaren.com/fr-fr"
 },
@@ -794,7 +794,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://cars.mclaren.com/fr-fr/750s"
 },
@@ -811,7 +811,7 @@
   "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
   "url": "https://cars.mclaren.com/fr-fr/750s"
 },
@@ -828,7 +828,7 @@
   "malusValue": 58134,
   "category": "Berline",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -845,7 +845,7 @@
   "malusValue": 48901,
   "category": "Coupé",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -862,7 +862,7 @@
   "malusValue": 61245,
   "category": "Break",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -879,7 +879,7 @@
   "malusValue": 70000,
   "category": "Berline",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -896,7 +896,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -913,7 +913,7 @@
   "malusValue": 70000,
   "category": "Break",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -930,7 +930,7 @@
   "malusValue": 70000,
   "category": "Berline",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -947,7 +947,7 @@
   "malusValue": 70000,
   "category": "Berline",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -964,7 +964,7 @@
   "malusValue": 70000,
   "category": "Break",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -981,7 +981,7 @@
   "malusValue": 70000,
   "category": "Break",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -998,7 +998,7 @@
   "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1015,7 +1015,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1032,7 +1032,7 @@
   "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1049,7 +1049,7 @@
   "malusValue": 0,
   "category": "Break",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1066,7 +1066,7 @@
   "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1083,7 +1083,7 @@
   "malusValue": 30624,
   "category": "Berline",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1100,7 +1100,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1117,7 +1117,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1134,7 +1134,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1151,7 +1151,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1168,7 +1168,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1185,7 +1185,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1202,7 +1202,7 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1219,7 +1219,7 @@
   "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1236,7 +1236,7 @@
   "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1253,7 +1253,7 @@
   "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1270,7 +1270,7 @@
   "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "-",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1287,7 +1287,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1304,7 +1304,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1316,12 +1316,12 @@
   "power" : "306 ch",
   "powerValue": 306,
   "price": "73 850 €",
-  "priceValue": 73 850,
+  "priceValue": 73850,
   "malus": "70 000 €",
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1338,7 +1338,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1355,7 +1355,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1372,7 +1372,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1389,7 +1389,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1406,7 +1406,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1423,7 +1423,7 @@
   "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1440,7 +1440,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1457,7 +1457,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1474,7 +1474,7 @@
   "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1491,7 +1491,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1508,7 +1508,7 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
@@ -1525,10 +1525,78 @@
   "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
+          {
+  "title": "Porsche 718 Cayman GT4 RS",
+  "image": "images/",
+  "energy": "Essence",
+  "engine": "Flat-6",
+  "power" : "500 ch",
+  "powerValue": 500,
+  "price": "162 500 €",
+  "priceValue": 162500,
+  "malus": "70 000 €",
+  "malusValue": 70000,
+  "category": "Coupé",
+  "drivetrain": "RWD",
+  "gearbox": "Automatique",
+  "enginePosition": "Arrière",
+  "url": "https://www.porsche.com/france/"
+}
+              {
+  "title": "Porsche 718 Spyder RS",
+  "image": "images/",
+  "energy": "Essence",
+  "engine": "Flat-6",
+  "power" : "500 ch",
+  "powerValue": 500,
+  "price": "162 500 €",
+  "priceValue": 162500,
+  "malus": "70 000 €",
+  "malusValue": 70000,
+  "category": "Cabriolet",
+  "drivetrain": "RWD",
+  "gearbox": "Automatique",
+  "enginePosition": "Arrière",
+  "url": "https://www.porsche.com/france/"
+}
+      {
+  "title": "Porsche 911 Carrera",
+  "image": "images/",
+  "energy": "Essence",
+  "engine": "Flat-6",
+  "power" : "394 ch",
+  "powerValue": 394,
+  "price": "140 000 €",
+  "priceValue": 140000,
+  "malus": "70 000 €",
+  "malusValue": 70000,
+  "category": "Coupé",
+  "drivetrain": "RWD",
+  "gearbox": "Automatique",
+  "enginePosition": "Arrière",
+  "url": "https://www.porsche.com/france/"
+}
+          {
+  "title": "Porsche 911 Carrera T",
+  "image": "images/",
+  "energy": "Essence",
+  "engine": "Flat-6",
+  "power" : "394 ch",
+  "powerValue": 394,
+  "price": "150 800 €",
+  "priceValue": 150800,
+  "malus": "70 000 €",
+  "malusValue": 70000,
+  "category": "Coupé",
+  "drivetrain": "RWD",
+  "gearbox": "Manuelle",
+  "enginePosition": "Arrière",
+  "url": "https://www.porsche.com/france/"
+}
       {
   "title": "Porsche 911 GT3 RS",
   "image": "images/992gt3rs.webp",
@@ -1542,8 +1610,8 @@
   "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
-  "gearbox": "automatique",
+  "gearbox": "Automatique",
   "enginePosition": "Arrière",
-  "url": "https://www.porsche.com/france/models/911/911-gt3-rs/911-gt3-rs/"
+  "url": "https://www.porsche.com/france/"
 }
 ]
