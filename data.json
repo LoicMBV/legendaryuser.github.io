@@ -2175,6 +2175,23 @@
   "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
+       {
+  "title": "Porsche Taycan Turbo S Sport Turismo",
+  "image": "images/302658_1920x1280.jpg",
+  "energy": "Electrique",
+  "engine": "-",
+  "power" : "952 ch",
+  "powerValue": 952,
+  "price": "217 700 €",
+  "priceValue": 217700,
+  "malus": "0 €",
+  "malusValue": 0,
+  "category": "Break",
+  "drivetrain": "AWD",
+  "gearbox": "Automatique",
+  "enginePosition": "-",
+  "url": "https://www.porsche.com/france/"
+},
      {
   "title": "Porsche Taycan 4 Cross Turismo",
   "image": "images/DSC06868-Edit.jpeg",
