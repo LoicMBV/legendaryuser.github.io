@@ -26,11 +26,11 @@ const newData = data.map(car => {
       .replace(/{{description}}/g, `Fiche technique ${car.title}`)
       .replace(/{{marque}}/g, car.title.split(' ')[0] || 'Non précisé')
       .replace(/{{modele}}/g, car.title.split(' ').slice(1).join(' ') || 'Non précisé')
-      .replace(/{{prix}}/g, car.price || 'Non précisé')
-      .replace(/{{puissance}}/g, car.power || 'Non précisé')
-      .replace(/{{boite}}/g, car.gearbox || 'Non précisé')
+      .replace(/{{price}}/g, car.price || 'Non précisé')
+      .replace(/{{power}}/g, car.power || 'Non précisé')
+      .replace(/{{gearbox}}/g, car.gearbox || 'Non précisé')
       .replace(/{{image}}/g, car.image || '')
-      .replace(/{{urlConstructeur}}/g, car.url || '#');
+      .replace(/{{url}}/g, car.url || '#');
 
     fs.writeFileSync(filepath, html);
     console.log(`✅ Fiche créée : ${filename}`);
