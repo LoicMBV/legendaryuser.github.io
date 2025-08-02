@@ -23,14 +23,18 @@ const newData = data.map(car => {
   if (!fs.existsSync(filepath)) {
     const html = template
       .replace(/{{titre}}/g, car.title)
-      .replace(/{{description}}/g, `Fiche technique ${car.title}`)
-      .replace(/{{marque}}/g, car.title.split(' ')[0] || 'Non précisé')
-      .replace(/{{modele}}/g, car.title.split(' ').slice(1).join(' ') || 'Non précisé')
-      .replace(/{{price}}/g, car.price || 'Non précisé')
-      .replace(/{{power}}/g, car.power || 'Non précisé')
-      .replace(/{{gearbox}}/g, car.gearbox || 'Non précisé')
-      .replace(/{{image}}/g, car.image || '')
-      .replace(/{{url}}/g, car.url || '#');
+      .replace(/{{energy}}/g, car.energy)
+      .replace(/{{engine}}/g, car.engine)
+      .replace(/{{price}}/g, car.price)
+      .replace(/{{malus}}/g, car.malus)
+      .replace(/{{category}}/g, car.category)
+      .replace(/{{power}}/g, car.power)
+      .replace(/{{drivetrain}}/g, car.drivetrain)
+      .replace(/{{gearbox}}/g, car.gearbox)
+      .replace(/{{enginePosition}}/g, car.enginePosition)
+      .replace(/{{image}}/g, car.image)
+      .replace(/{{url}}/g, car.url);
+    
 
     fs.writeFileSync(filepath, html);
     console.log(`✅ Fiche créée : ${filename}`);
