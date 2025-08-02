@@ -8,15 +8,21 @@ const outputDir = './fiches';
 if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir);
 
 data.forEach(car => {
-  const filename = `${car.marque}-${car.modele}`.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '') + '.html';
+  const sanitizedTitle = car.title.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '');
+  const filename = `${sanitizedTitle}.html`;
+
   const html = template
-    .replace(/{{titre}}/g, `${car.marque} ${car.modele}`)
-    .replace(/{{description}}/g, `Fiche technique ${car.marque} ${car.modele}`)
-    .replace(/{{marque}}/g, car.marque)
-    .replace(/{{modele}}/g, car.modele)
-    .replace(/{{prix}}/g, car.prix || 'Non précisé')
-    .replace(/{{puissance}}/g, car.puissance || 'Non précisé')
-    .replace(/{{boite}}/g, car.boite || 'Non précisé')
+    .replace(/{{titre}}/g, car.title || 'Titre inconnu')
+    .replace(/{{description}}/g, `Fiche technique ${car.title}`)
+    .replace(/{{energie}}/g, car.energy || 'Non précisé')
+    .replace(/{{moteur}}/g, car.engine || 'Non précisé')
+    .replace(/{{puissance}}/g, car.power || 'Non précisé')
+    .replace(/{{prix}}/g, car.price || 'Non précisé')
+    .replace(/{{malus}}/g, car.malus || 'Non précisé')
+    .replace(/{{categorie}}/g, car.category || 'Non précisé')
+    .replace(/{{transmission}}/g, car.drivetrain || 'Non précisé')
+    .replace(/{{boite}}/g, car.gearbox || 'Non précisé')
+    .replace(/{{positionMoteur}}/g, car.enginePosition || 'Non précisé')
     .replace(/{{image}}/g, car.image || '')
     .replace(/{{urlConstructeur}}/g, car.url || '#');
 
