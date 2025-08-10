@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="index, follow" />
+  <meta name="description" content="Legendary Autosport (moto) - Motos neuves en France avec fiches techniques et liens constructeurs." />
+  <title>Legendary Autosport (moto)</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="LA.png">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1 class="logo">
+  <span class="logo-bold">Legendary</span> Autosport<span class="logo-bold"> (moto)</span>
+</h1>
+  <nav>
+    <!--<a href="index.html">Accueil</a>
+    <a href="a-propos.html">À propos</a>
+  </nav>-->
+    </div>
+  </header>
+  
+<main class="annonces-section">
+  
+  <section class="intro">
+  <h1>Bienvenue sur Legendary Autosport (moto)</h1>
+  <p>Legendary Autosport (moto) référence les motos neuves disponibles en France. Retrouvez facilement les modèles par marque ou motorisation, consultez leurs fiches techniques (puissance, prix, cylindrée...) et accédez directement aux pages officielles des constructeurs.</p>
+</section>
+</section>
+  
+<div class="contenu">
+  <aside class="filtres">
+<div class="filtres-container">
+  <div class="filtre-bloc">
+    <p class="filtre-titre">Trier par</p>
+    <select id="tri">
+      <option value="">-- Aucun tri --</option>
+      <option value="prix-asc">Prix croissant</option>
+      <option value="prix-desc">Prix décroissant</option>
+      <option value="puissance-asc">Puissance croissante</option>
+      <option value="puissance-desc">Puissance décroissante</option>
+    </select>
+  </div>
+  
+  <h2>Filtres</h2>
+
+    <div class="filtre-bloc" id="filtre-permis">
+    <p class="filtre-titre">Permis</p>
+    <label><input type="checkbox" value="A"> A</label>
+    <label><input type="checkbox" value="A2"> A2</label>
+  </div>
+
+  
+  <div class="filtre-bloc" id="filtre-marque">
+    <p class="filtre-titre">Marque</p>
+    <label><input type="checkbox" value="Honda"> Honda</label>
+    <label><input type="checkbox" value="Yamaha"> Yamaha</label>
+    <label><input type="checkbox" value="Ducati"> Ducati</label>
+    <label><input type="checkbox" value="Triumph"> Triumph</label>
+    <label><input type="checkbox" value="BMW"> BMW</label>
+    <label><input type="checkbox" value="kawasaki"> Kawasaki</label>
+    <label><input type="checkbox" value="Suzuki"> Suzuki</label>
+    <label><input type="checkbox" value="KTM"> KTM</label>
+  </div>
+
+  <div class="filtre-bloc" id="filtre-motorisation">
+    <p class="filtre-titre">Cylindre</p>
+    <label><input type="checkbox" value="1"> 1</label>
+    <label><input type="checkbox" value="2"> 2</label>
+    <label><input type="checkbox" value="3"> 3</label>
+    <label><input type="checkbox" value="4"> 4</label>
+    <label><input type="checkbox" value="6"> 6</label>
+  </div>
+
+  <div class="filtre-bloc" id="filtre-energie">
+    <p class="filtre-titre">Énergie</p>
+    <label><input type="checkbox" value="Essence"> Essence</label>
+    <label><input type="checkbox" value="Hybride"> Hybride</label>
+    <label><input type="checkbox" value="Electrique"> Electrique</label>
+  </div>
+
+  <div class="filtre-bloc" id="filtre-categorie">
+    <p class="filtre-titre">Catégorie</p>
+    <label><input type="checkbox" value="Roadster"> Roadster</label>
+    <label><input type="checkbox" value="Sportive"> Sportive</label>
+    <label><input type="checkbox" value="GT"> GT</label>
+    <label><input type="checkbox" value="Custom"> Custom</label>
+    <label><input type="checkbox" value="Trail"> Trail</label>
+  </div>
+
+</div>
+
+    </aside>
+
+    <section class="annonces"></section>
+  </div>
+  </main>
+
+  <footer>
+    <!-- <p>&copy; 2025 Legendary Autosport - <a href="credits.html">Crédits</a> ·<a href="mentions-legales.html">Mentions légales</a></p>-->
+  </footer>
+<script src="script.js"></script>
+</body>
+</html>
