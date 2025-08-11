@@ -190,12 +190,9 @@
   "powerValue": 782,
   "price": "275 280 €",
   "priceValue": 275280,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.bentleymotors.com/en.html"
 },
 {
@@ -207,12 +204,9 @@
   "powerValue": 462,
   "price": "223 680 €",
   "priceValue": 223680,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.bentleymotors.com/en.html"
 },
     {
@@ -224,12 +218,9 @@
   "powerValue": 550,
   "price": "223 680 / 271 058 €",
   "priceValue": 223680,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.bentleymotors.com/en.html"
 },
       {
@@ -241,12 +232,9 @@
   "powerValue": 480,
   "price": "86 800 €",
   "priceValue": 86800,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Automatique / Manuelle",
-  "enginePosition": "Avant",
   "url": "https://www.bmw.fr/fr/accueil.html"
 },
   {
@@ -258,12 +246,9 @@
   "powerValue": 530,
   "price": "119 900 €",
   "priceValue": 119900,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.bmw.fr/fr/tous-les-modeles/m-series/modeles-m-bmw-serie2/bmw-m2-coupe.html#caracteristiques-techniques"
 },
       {
@@ -275,12 +260,9 @@
   "powerValue": 530,
   "price": "122 100 €",
   "priceValue": 122100,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.bmw.fr/fr/accueil.html"
 },
           {
@@ -292,12 +274,9 @@
   "powerValue": 530,
   "price": "123 100 / 129 800 €",
   "priceValue": 123100,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé / Cabriolet",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.bmw.fr/fr/accueil.html"
 },
   {
@@ -309,12 +288,9 @@
   "powerValue": 727,
   "price": "161 900 / 164 900 €",
   "priceValue": 161900,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline / Break",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.bmw.fr/fr/accueil.html"
 },
       {
@@ -326,12 +302,9 @@
   "powerValue": 748,
   "price": "187 500 €",
   "priceValue": 187500,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.bmw.fr/fr/accueil.html"
 },
       {
@@ -343,12 +316,9 @@
   "powerValue": 1800,
   "price": "4 560 000 €",
   "priceValue": 4560000,
-  "malus": "- €",
-  "malusValue": 0,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.bugatti.com/fr"
 },
   {
@@ -360,12 +330,9 @@
   "powerValue": 830,
   "price": "287 737 / 315 355 €",
   "priceValue": 287737,
-  "malus": "2 918 / 3 784 €",
-  "malusValue": 2918,
   "category": "Coupé / Cabriolet",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.ferrari.com/fr-FR"
 },
       {
@@ -377,12 +344,9 @@
   "powerValue": 880,
   "price": "- €",
   "priceValue": 0,
-  "malus": "- €",
-  "malusValue": 0,
   "category": "Coupé / Cabriolet",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.ferrari.com/fr-FR"
 },
       {
@@ -394,12 +358,9 @@
   "powerValue": 620,
   "price": "246 524 €",
   "priceValue": 246524,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.ferrari.com/fr-FR"
 },
   {
@@ -411,12 +372,9 @@
   "powerValue": 830,
   "price": "387 751 / 427 096 €",
   "priceValue": 387751,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé / Cabriolet",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.ferrari.com/fr-FR"
 },
       {
@@ -428,12 +386,9 @@
   "powerValue": 1000,
   "price": "465 714 €",
   "priceValue": 465714,
-  "malus": "4 543 €",
-  "malusValue": 4543,
   "category": "Cabriolet",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.ferrari.com/fr-FR"
 },
           {
@@ -445,12 +400,9 @@
   "powerValue": 1030,
   "price": "758 000 / 836 689 €",
   "priceValue": 758000,
-  "malus": "10 692 €",
-  "malusValue": 10692,
   "category": "Coupé / Cabriolet",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.ferrari.com/fr-FR"
 },
   {
@@ -462,12 +414,9 @@
   "powerValue": 725,
   "price": "384 229 €",
   "priceValue": 384229,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.ferrari.com/fr-FR"
 },
       {
@@ -479,12 +428,9 @@
   "powerValue": 300,
   "price": "83 350 €",
   "priceValue": 83350,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.maserati.com/fr/fr"
 },
           {
@@ -496,12 +442,9 @@
   "powerValue": 330,
   "price": "91 050 €",
   "priceValue": 91050,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.maserati.com/fr/fr"
 },
               {
@@ -513,12 +456,9 @@
   "powerValue": 530,
   "price": "125 650 €",
   "priceValue": 125650,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.maserati.com/fr/fr"
 },
                   {
@@ -530,12 +470,9 @@
   "powerValue": 550,
   "price": "109 300 €",
   "priceValue": 109300,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.maserati.com/fr/fr"
 },
     {
@@ -547,12 +484,9 @@
   "powerValue": 490,
   "price": "157 950 €",
   "priceValue": 157950,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.maserati.com/fr/fr"
 },
     {
@@ -564,12 +498,9 @@
   "powerValue": 550,
   "price": "198 450 €",
   "priceValue": 198450,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.maserati.com/fr/fr"
 },
         {
@@ -581,12 +512,9 @@
   "powerValue": 761,
   "price": "196 250 €",
   "priceValue": 196250,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.maserati.com/fr/fr"
 },
      {
@@ -598,12 +526,9 @@
   "powerValue": 490,
   "price": "166 500 €",
   "priceValue": 166500,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.maserati.com/fr/fr"
 },
     {
@@ -615,12 +540,9 @@
   "powerValue": 550,
   "price": "207 050 €",
   "priceValue": 207050,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.maserati.com/fr/fr"
 },
             {
@@ -632,12 +554,9 @@
   "powerValue": 761,
   "price": "204 850 €",
   "priceValue": 204850,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Cabriolet",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.maserati.com/fr/fr"
 },
        {
@@ -649,12 +568,9 @@
   "powerValue": 630,
   "price": "235 200 €",
   "priceValue": 235200,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.maserati.com/fr/fr"
 },
            {
@@ -666,12 +582,9 @@
   "powerValue": 630,
   "price": "265 400 €",
   "priceValue": 265400,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.maserati.com/fr/fr"
 },
            {
@@ -683,12 +596,9 @@
   "powerValue": 640,
   "price": "385 850 €",
   "priceValue": 385850,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.maserati.com/fr/fr"
 },
       {
@@ -700,12 +610,9 @@
   "powerValue": 635,
   "price": "217 800 €",
   "priceValue": 217800,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://cars.mclaren.com/fr-fr"
 },
           {
@@ -717,12 +624,9 @@
   "powerValue": 700,
   "price": "247 000 €",
   "priceValue": 247000,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://cars.mclaren.com/fr-fr"
 },
               {
@@ -734,12 +638,9 @@
   "powerValue": 700,
   "price": "272 250 €",
   "priceValue": 272250,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Cabriolet",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://cars.mclaren.com/fr-fr"
 },
       {
@@ -751,12 +652,9 @@
   "powerValue": 750,
   "price": "299 400 €",
   "priceValue": 299400,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://cars.mclaren.com/fr-fr/750s"
 },
           {
@@ -768,30 +666,10 @@
   "powerValue": 750,
   "price": "329 400 €",
   "priceValue": 329400,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://cars.mclaren.com/fr-fr/750s"
-},
-      {
-  "title": "Mercedes-AMG A 35 4MATIC",
-  "image": "images/22C0353_004.webp",
-  "energy": "Essence",
-  "engine": "I4",
-  "power" : "306 ch",
-  "powerValue": 306,
-  "price": "64 150 €",
-  "priceValue": 64150,
-  "malus": "58 134 €",
-  "malusValue": 58134,
-  "category": "Berline",
-  "drivetrain": "AWD",
-  "gearbox": "Automatique",
-  "enginePosition": "Avant",
-  "url": "https://www.mercedes-benz.fr/"
 },
           {
   "title": "Mercedes-AMG CLA 35 4MATIC Coupé",
@@ -802,46 +680,9 @@
   "powerValue": 306,
   "price": "70 650 €",
   "priceValue": 70650,
-  "malus": "48 901 €",
-  "malusValue": 48901,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
-  "url": "https://www.mercedes-benz.fr/"
-},
-              {
-  "title": "Mercedes-AMG CLA 35 4MATIC Shooting Brake",
-  "image": "images/23C0031_009_0.webp",
-  "energy": "Essence",
-  "engine": "I4",
-  "power" : "306 ch",
-  "powerValue": 306,
-  "price": "71 750 €",
-  "priceValue": 71750,
-  "malus": "61 245 €",
-  "malusValue": 61245,
-  "category": "Break",
-  "drivetrain": "AWD",
-  "gearbox": "Automatique",
-  "enginePosition": "Avant",
-  "url": "https://www.mercedes-benz.fr/"
-},
-          {
-  "title": "Mercedes-AMG A 45 S 4MATIC+",
-  "image": "images/19C0573_003.webp",
-  "energy": "Essence",
-  "engine": "I4",
-  "power" : "421 ch",
-  "powerValue": 421,
-  "price": "79 700 €",
-  "priceValue": 79700,
-  "malus": "70 000 €",
-  "malusValue": 70000,
-  "category": "Berline",
-  "drivetrain": "AWD",
-  "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
               {
@@ -856,23 +697,6 @@
   "malus": "70 000 €",
   "malusValue": 70000,
   "category": "Coupé",
-  "drivetrain": "AWD",
-  "gearbox": "Automatique",
-  "enginePosition": "Avant",
-  "url": "https://www.mercedes-benz.fr/"
-},
-                  {
-  "title": "Mercedes-AMG CLA 45 S 4MATIC+ Shooting Brake",
-  "image": "images/23C0031_013_0.webp",
-  "energy": "Essence",
-  "engine": "I4",
-  "power" : "421 ch",
-  "powerValue": 421,
-  "price": "85 000 €",
-  "priceValue": 85000,
-  "malus": "70 000 €",
-  "malusValue": 70000,
-  "category": "Break",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
   "enginePosition": "Avant",
@@ -912,41 +736,7 @@
   "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
-                      {
-  "title": "Mercedes-AMG C 43 4MATIC Break +",
-  "image": "images/22C0238_009.webp",
-  "energy": "Essence",
-  "engine": "I4",
-  "power" : "421 ch",
-  "powerValue": 421,
-  "price": "82 650 €",
-  "priceValue": 82650,
-  "malus": "70 000 €",
-  "malusValue": 70000,
-  "category": "Break",
-  "drivetrain": "AWD",
-  "gearbox": "Automatique",
-  "enginePosition": "Avant",
-  "url": "https://www.mercedes-benz.fr/"
-},
     {
-  "title": "Mercedes-AMG C 63 S E Performance Break +",
-  "image": "images/22C0306_015.webp",
-  "energy": "Hybride",
-  "engine": "I4",
-  "power" : "680 ch",
-  "powerValue": 680,
-  "price": "137 350 €",
-  "priceValue": 137350,
-  "malus": "70 000 €",
-  "malusValue": 70000,
-  "category": "Break",
-  "drivetrain": "AWD",
-  "gearbox": "Automatique",
-  "enginePosition": "Avant",
-  "url": "https://www.mercedes-benz.fr/"
-},
-                      {
   "title": "Mercedes-AMG E 53 HYBRID 4MATIC+",
   "image": "images/23C0356_014.webp",
   "energy": "Hybride",
@@ -992,23 +782,6 @@
   "malus": "70 000 €",
   "malusValue": 70000,
   "category": "Cabriolet",
-  "drivetrain": "AWD",
-  "gearbox": "Automatique",
-  "enginePosition": "Avant",
-  "url": "https://www.mercedes-benz.fr/"
-},
-              {
-  "title": "Mercedes-AMG E 53 HYBRID 4MATIC+ Break",
-  "image": "images/23C0357_020.webp",
-  "energy": "Hybride",
-  "engine": "I6",
-  "power" : "585 ch",
-  "powerValue": 585,
-  "price": "115 950 €",
-  "priceValue": 115950,
-  "malus": "0 €",
-  "malusValue": 0,
-  "category": "Break",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
   "enginePosition": "Avant",
