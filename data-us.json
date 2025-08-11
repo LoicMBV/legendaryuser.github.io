@@ -694,12 +694,9 @@
   "powerValue": 421,
   "price": "83 900 €",
   "priceValue": 83900,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
               {
@@ -711,12 +708,9 @@
   "powerValue": 421,
   "price": "81 150 €",
   "priceValue": 81150,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
                   {
@@ -728,12 +722,9 @@
   "powerValue": 680,
   "price": "135 850 €",
   "priceValue": 135850,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
     {
@@ -745,12 +736,9 @@
   "powerValue": 585,
   "price": "113 400 €",
   "priceValue": 113400,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
       {
@@ -762,12 +750,9 @@
   "powerValue": 449,
   "price": "93 400 €",
   "priceValue": 93400,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
           {
@@ -779,12 +764,9 @@
   "powerValue": 449,
   "price": "101 150 €",
   "priceValue": 101150,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
     {
@@ -796,12 +778,9 @@
   "powerValue": 625,
   "price": "127 100 €",
   "priceValue": 127100,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
         {
@@ -813,12 +792,9 @@
   "powerValue": 802,
   "price": "225 950 €",
   "priceValue": 225950,
-  "malus": "30 624 €",
-  "malusValue": 30624,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
       {
@@ -830,12 +806,9 @@
   "powerValue": 421,
   "price": "146 550 €",
   "priceValue": 146550,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
           {
@@ -847,12 +820,9 @@
   "powerValue": 585,
   "price": "201 750 €",
   "priceValue": 201750,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
               {
@@ -864,12 +834,9 @@
   "powerValue": 612,
   "price": "231 050 €",
   "priceValue": 231050,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
       {
@@ -881,12 +848,9 @@
   "powerValue": 816,
   "price": "231 050 €",
   "priceValue": 231050,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
           {
@@ -898,12 +862,9 @@
   "powerValue": 367,
   "price": "134 950 €",
   "priceValue": 134950,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
               {
@@ -915,12 +876,9 @@
   "powerValue": 435,
   "price": "152 100 €",
   "priceValue": 152100,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
               {
@@ -932,12 +890,9 @@
   "powerValue": 843,
   "price": "226 150 €",
   "priceValue": 226150,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
               {
@@ -949,12 +904,9 @@
   "powerValue": 421,
   "price": "151 300 €",
   "priceValue": 151300,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
                   {
@@ -966,12 +918,9 @@
   "powerValue": 585,
   "price": "203 350 €",
   "priceValue": 203350,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
                   {
@@ -983,12 +932,9 @@
   "powerValue": 816,
   "price": "232 650 €",
   "priceValue": 232650,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
     {
@@ -1000,12 +946,9 @@
   "powerValue": 625,
   "price": "147 050 €",
   "priceValue": 147050,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.mercedes-benz.fr/"
 },
         {
@@ -1017,12 +960,9 @@
   "powerValue": 306,
   "price": "70 400 €",
   "priceValue": 70400,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
             {
@@ -1034,12 +974,9 @@
   "powerValue": 421,
   "price": "84 050 €",
   "priceValue": 84050,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
                 {
@@ -1051,12 +988,9 @@
   "powerValue": 306,
   "price": "73 850 €",
   "priceValue": 73850,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
                     {
@@ -1068,12 +1002,9 @@
   "powerValue": 421,
   "price": "86 650 €",
   "priceValue": 86650,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
     {
@@ -1085,12 +1016,9 @@
   "powerValue": 680,
   "price": "139 651 €",
   "priceValue": 139651,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
      {
@@ -1102,12 +1030,9 @@
   "powerValue": 421,
   "price": "89 050 €",
   "priceValue": 89050,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
         {
@@ -1119,12 +1044,9 @@
   "powerValue": 680,
   "price": "142 050 €",
   "priceValue": 142050,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
             {
@@ -1136,12 +1058,9 @@
   "powerValue": 435,
   "price": "105 801 €",
   "priceValue": 105801,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
                 {
@@ -1153,12 +1072,9 @@
   "powerValue": 544,
   "price": "116 501 €",
   "priceValue": 116501,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
     {
@@ -1170,12 +1086,9 @@
   "powerValue": 612,
   "price": "159 951 €",
   "priceValue": 159951,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
                 {
@@ -1187,12 +1100,9 @@
   "powerValue": 435,
   "price": "123 901 €",
   "priceValue": 123901,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
                     {
@@ -1204,12 +1114,9 @@
   "powerValue": 544,
   "price": "134 501 €",
   "priceValue": 134501,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
         {
@@ -1221,12 +1128,9 @@
   "powerValue": 612,
   "price": "174 701 €",
   "priceValue": 174701,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
            {
@@ -1238,12 +1142,9 @@
   "powerValue": 612,
   "price": "199 101 €",
   "priceValue": 199101,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
                {
@@ -1255,12 +1156,9 @@
   "powerValue": 585,
   "price": "206 951 €",
   "priceValue": 206951,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.mercedes-benz.fr/"
 },
           {
@@ -1272,12 +1170,9 @@
   "powerValue": 500,
   "price": "162 500 €",
   "priceValue": 162500,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
               {
@@ -1289,12 +1184,9 @@
   "powerValue": 500,
   "price": "162 500 €",
   "priceValue": 162500,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
       {
@@ -1306,12 +1198,9 @@
   "powerValue": 394,
   "price": "140 000 €",
   "priceValue": 140000,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
           {
@@ -1323,12 +1212,9 @@
   "powerValue": 394,
   "price": "150 800 €",
   "priceValue": 150800,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Manuelle",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
               {
@@ -1340,12 +1226,9 @@
   "powerValue": 480,
   "price": "158 200 €",
   "priceValue": 158200,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
                   {
@@ -1357,12 +1240,9 @@
   "powerValue": 480,
   "price": "166 400 €",
   "priceValue": 166400,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
            {
@@ -1374,12 +1254,9 @@
   "powerValue": 541,
   "price": "180 600 €",
   "priceValue": 180600,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
         {
@@ -1391,12 +1268,9 @@
   "powerValue": 541,
   "price": "188 900 €",
   "priceValue": 188900,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
  {
@@ -1408,12 +1282,9 @@
   "powerValue": 394,
   "price": "154 200 €",
   "priceValue": 154200,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -1425,12 +1296,9 @@
   "powerValue": 394,
   "price": "165 000 €",
   "priceValue": 165000,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "RWD",
   "gearbox": "Manuelle",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -1442,12 +1310,9 @@
   "powerValue": 480,
   "price": "172 400 €",
   "priceValue": 172400,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -1459,12 +1324,9 @@
   "powerValue": 480,
   "price": "180 600 €",
   "priceValue": 180600,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
          {
@@ -1476,12 +1338,9 @@
   "powerValue": 541,
   "price": "194 800 €",
   "priceValue": 194800,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
              {
@@ -1493,12 +1352,9 @@
   "powerValue": 541,
   "price": "203 100 €",
   "priceValue": 203100,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
       {
@@ -1510,12 +1366,9 @@
   "powerValue": 480,
   "price": "182 400 €",
   "priceValue": 182400,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -1527,12 +1380,9 @@
   "powerValue": 541,
   "price": "203 100 €",
   "priceValue": 203100,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Cabriolet",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -1544,12 +1394,9 @@
   "powerValue": 510,
   "price": "213 700 €",
   "priceValue": 213700,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Automatique / Manuelle",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -1561,12 +1408,9 @@
   "powerValue": 510,
   "price": "213 700 €",
   "priceValue": 213700,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Automatique / Manuelle",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
       {
@@ -1578,12 +1422,9 @@
   "powerValue": 525,
   "price": "253 454 €",
   "priceValue": 253454,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Coupé",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Arrière",
   "url": "https://www.porsche.com/france/"
 },
           {
@@ -1595,12 +1436,9 @@
   "powerValue": 408,
   "price": "106 500 €",
   "priceValue": 106500,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
               {
@@ -1612,12 +1450,9 @@
   "powerValue": 408,
   "price": "111 600 €",
   "priceValue": 111600,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
                   {
@@ -1629,12 +1464,9 @@
   "powerValue": 544,
   "price": "125 800 €",
   "priceValue": 125800,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
                       {
@@ -1646,12 +1478,9 @@
   "powerValue": 700,
   "price": "154 000 €",
   "priceValue": 154000,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
           {
@@ -1663,12 +1492,9 @@
   "powerValue": 884,
   "price": "181 600 €",
   "priceValue": 181600,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
    {
@@ -1680,12 +1506,9 @@
   "powerValue": 952,
   "price": "216 700 €",
   "priceValue": 216700,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
        {
@@ -1697,12 +1520,9 @@
   "powerValue": 1034,
   "price": "248 000 €",
   "priceValue": 248000,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
    {
@@ -1714,12 +1534,9 @@
   "powerValue": 1034,
   "price": "248 000 €",
   "priceValue": 248000,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
        {
@@ -1731,12 +1548,9 @@
   "powerValue": 408,
   "price": "107 500 €",
   "priceValue": 107500,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Break",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -1748,12 +1562,9 @@
   "powerValue": 544,
   "price": "126 800 €",
   "priceValue": 126800,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Break",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -1765,12 +1576,9 @@
   "powerValue": 700,
   "price": "155 000 €",
   "priceValue": 155000,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Break",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
     {
@@ -1782,12 +1590,9 @@
   "powerValue": 884,
   "price": "182 500 €",
   "priceValue": 182500,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Break",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
        {
@@ -1799,12 +1604,9 @@
   "powerValue": 952,
   "price": "217 700 €",
   "priceValue": 217700,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Break",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -1816,12 +1618,9 @@
   "powerValue": 435,
   "price": "118 900 €",
   "priceValue": 118900,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Break",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -1833,12 +1632,9 @@
   "powerValue": 598,
   "price": "131 600 €",
   "priceValue": 131600,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Break",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
     {
@@ -1850,12 +1646,9 @@
   "powerValue": 884,
   "price": "183 000 €",
   "priceValue": 183000,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Break",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
     {
@@ -1867,12 +1660,9 @@
   "powerValue": 952,
   "price": "218 200 €",
   "priceValue": 218200,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Break",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -1884,12 +1674,9 @@
   "powerValue": 353,
   "price": "119 000 €",
   "priceValue": 119000,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Berline",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
       {
@@ -1901,12 +1688,9 @@
   "powerValue": 353,
   "price": "123 100 €",
   "priceValue": 123100,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -1918,12 +1702,9 @@
   "powerValue": 470,
   "price": "133 000 €",
   "priceValue": 133000,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -1935,12 +1716,9 @@
   "powerValue": 544,
   "price": "148 200 €",
   "priceValue": 148200,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -1952,12 +1730,9 @@
   "powerValue": 500,
   "price": "174 300 €",
   "priceValue": 174300,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
          {
@@ -1969,12 +1744,9 @@
   "powerValue": 680,
   "price": "207 700 €",
   "priceValue": 207700,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -1986,12 +1758,9 @@
   "powerValue": 782,
   "price": "240 000 €",
   "priceValue": 240000,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -2003,12 +1772,9 @@
   "powerValue": 470,
   "price": "143 900 €",
   "priceValue": 143900,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
       {
@@ -2020,12 +1786,9 @@
   "powerValue": 782,
   "price": "251 100 €",
   "priceValue": 251100,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "Berline",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
       {
@@ -2037,12 +1800,9 @@
   "powerValue": 360,
   "price": "82 959 €",
   "priceValue": 82959,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "RWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -2054,12 +1814,9 @@
   "powerValue": 408,
   "price": "86 439 €",
   "priceValue": 86439,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -2071,12 +1828,9 @@
   "powerValue": 516,
   "price": "93 091 €",
   "priceValue": 93091,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
       {
@@ -2088,12 +1842,9 @@
   "powerValue": 639,
   "price": "118 910 €",
   "priceValue": 118910,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "-",
   "url": "https://www.porsche.com/france/"
 },
       {
@@ -2105,12 +1856,9 @@
   "powerValue": 353,
   "price": "104 600 €",
   "priceValue": 104600,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -2122,12 +1870,9 @@
   "powerValue": 470,
   "price": "118 200 €",
   "priceValue": 118200,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
     {
@@ -2139,12 +1884,9 @@
   "powerValue": 474,
   "price": "124 800 €",
   "priceValue": 124800,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -2156,12 +1898,9 @@
   "powerValue": 519,
   "price": "129 100 €",
   "priceValue": 129100,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -2173,12 +1912,9 @@
   "powerValue": 500,
   "price": "147 100 €",
   "priceValue": 147100,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -2190,12 +1926,9 @@
   "powerValue": 739,
   "price": "190 800 €",
   "priceValue": 190800,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
        {
@@ -2207,12 +1940,9 @@
   "powerValue": 353,
   "price": "108 700 €",
   "priceValue": 108700,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -2224,12 +1954,9 @@
   "powerValue": 470,
   "price": "120 500 €",
   "priceValue": 120500,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
       {
@@ -2241,12 +1968,9 @@
   "powerValue": 519,
   "price": "133 100 €",
   "priceValue": 133100,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -2258,12 +1982,9 @@
   "powerValue": 474,
   "price": "129 800 €",
   "priceValue": 129800,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
      {
@@ -2275,12 +1996,9 @@
   "powerValue": 500,
   "price": "150 500 €",
   "priceValue": 150500,
-  "malus": "70 000 €",
-  "malusValue": 70000,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
     {
@@ -2292,12 +2010,9 @@
   "powerValue": 739,
   "price": "194 400 €",
   "priceValue": 194400,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 },
     {
@@ -2309,12 +2024,9 @@
   "powerValue": 739,
   "price": "221 100 €",
   "priceValue": 221100,
-  "malus": "0 €",
-  "malusValue": 0,
   "category": "SUV",
   "drivetrain": "AWD",
   "gearbox": "Automatique",
-  "enginePosition": "Avant",
   "url": "https://www.porsche.com/france/"
 }
 ]
