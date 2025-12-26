@@ -37,7 +37,7 @@ header {
 
 .logo-bold {
   font-weight: 700;
-  color: #f90000;
+  color: #0000F9;
 }
 
 /* NAVIGATION */
@@ -50,7 +50,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #f90000;
+  color: #0000F9;
 }
 
 /* INTRO */
@@ -100,7 +100,7 @@ nav a:hover {
 .filtres-container h2 {
   font-size: 1.3rem;
   margin-bottom: 1rem;
-  color: #f90000;
+  color: #0000F9;
   border-bottom: 1px solid #ddd;
   padding-bottom: 0.5rem;
 }
@@ -139,7 +139,7 @@ select {
 
 select:focus {
   outline: none;
-  border-color: #f90000;
+  border-color: #0000F9;
 }
 
 /* ANNONCES */
@@ -193,7 +193,7 @@ select:focus {
 }
 
 .prix {
-  color: #f90000;
+  color: #0000F9;
   font-weight: bold;
   margin-top: 8px;
 }
