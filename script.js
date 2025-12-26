@@ -5,7 +5,7 @@ const chunkSize = 10;
 let allAnnonces = [];
 
 async function loadAnnonces() {
-  const response = await fetch('data-with-links.json');
+  const response = await fetch('data.json');
   const annonces = await response.json();
   allAnnonces = annonces;
   appliquerFiltres();
