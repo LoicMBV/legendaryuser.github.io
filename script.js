@@ -20,7 +20,6 @@ function afficherAnnonces(annonces) {
     div.innerHTML = `
       <a href="${annonce.url}">
         <img src="${annonce.image}" alt="${annonce.title}" />
-        </a>
         <div class="info">
           <h2>${annonce.title}</h2>
           <p>${annonce.energy} · ${annonce.engine} · ${annonce.power}</p>
@@ -29,6 +28,7 @@ function afficherAnnonces(annonces) {
           <p>Malus : ${annonce.malus}</p>
           <p class="prix">${annonce.price}</p>
         </div>
+        </a>
     `;
     container.appendChild(div);
   });
