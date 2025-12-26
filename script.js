@@ -22,11 +22,10 @@ function afficherAnnonces(annonces) {
         <img src="${annonce.image}" alt="${annonce.title}" />
         <div class="info">
           <h2>${annonce.title}</h2>
-          <p>${annonce.energy} · ${annonce.engine} · ${annonce.power}</p>
           <p>${annonce.category} · ${annonce.gearbox} · ${annonce.drivetrain}</p>
-          <p>Moteur : ${annonce.enginePosition}</p>
+          <p>Moteur : ${annonce.engine} · ${annonce.enginePosition} · ${annonce.energy} · ${annonce.power}</p>
           <p>Malus : ${annonce.malus}</p>
-          <p class="prix">${annonce.price}</p>
+          <p class="prix">Prix : ${annonce.price}</p>
         </div>
         </a>
     `;
