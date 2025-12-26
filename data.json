@@ -50,23 +50,6 @@
   "enginePosition": "Avant",
   "url": "https://www.astonmartin.com/fr"
 },
- {
-  "title": "Aston Martin DBX707",
-  "image": "images/Aston_Martin_DBX707__Satin_Neutron_White__67.webp",
-  "energy": "Essence",
-  "engine": "V8",
-  "power" : "707 ch",
-  "powerValue": 707,
-  "price": "246 554 €",
-  "priceValue": 246554,
-  "malus": "70 000 €",
-  "malusValue": 70000,
-  "category": "SUV",
-  "drivetrain": "AWD",
-  "gearbox": "Automatique",
-  "enginePosition": "Avant",
-  "url": "https://www.astonmartin.com/fr"
-},
       {
   "title": "Bugatti Tourbillon",
   "image": "images/BUGATTI-Tourbillon.webp",
