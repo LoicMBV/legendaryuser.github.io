@@ -1,3 +1,4 @@
+const container = document.querySelector('.annonces');
 const allAnnonces = Array.from(document.querySelectorAll('.annonce'));
 let annoncesFiltrees = [];
 let indexAffichage = 0;
@@ -29,7 +30,6 @@ function appliquerFiltres() {
     const okBoite = boites.length === 0 || boites.includes(a.dataset.gearbox);
     const okTransmission = transmissions.length === 0 || transmissions.includes(a.dataset.drivetrain);
     const okPosition = positions.length === 0 || positions.includes(a.dataset.enginePosition);
-
     return okMarque && okMoteur && okEnergie && okCategorie && okBoite && okTransmission && okPosition;
   });
 
@@ -47,13 +47,13 @@ function appliquerFiltres() {
   });
 
   indexAffichage = 0;
-  allAnnonces.forEach(a => (a.style.display = 'none'));
-  chargerPlus();
+  container.innerHTML = ''; // on vide le conteneur
+  chargerPlus();            // on affiche le premier chunk
 }
 
 function chargerPlus() {
   const chunk = annoncesFiltrees.slice(indexAffichage, indexAffichage + chunkSize);
-  chunk.forEach(a => (a.style.display = 'block'));
+  chunk.forEach(a => container.appendChild(a)); // insertion dans le DOM
   indexAffichage += chunkSize;
 }
 
