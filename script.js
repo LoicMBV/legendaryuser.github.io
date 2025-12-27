@@ -3,11 +3,19 @@ let annoncesFiltrees = [];
 let indexAffichage = 0;
 const chunkSize = 10;
 
-// utilitaire
+// Utilitaire pour récupérer les cases cochées
 function getCheckedValues(id) {
   return Array.from(
     document.querySelectorAll(`#${id} input[type="checkbox"]:checked`)
   ).map(el => el.value);
+}
+
+// Convertir une valeur string en nombre sûr pour le tri
+function toNumber(value) {
+  if (!value) return 0;
+  // supprimer espaces, €, /, etc.
+  const num = value.replace(/[^\d.-]/g, '');
+  return parseFloat(num) || 0;
 }
 
 function appliquerFiltres() {
@@ -20,26 +28,25 @@ function appliquerFiltres() {
   const positions = getCheckedValues('filtre-position');
   const tri = document.getElementById('tri').value;
 
+  // Filtrage
   annoncesFiltrees = allAnnonces.filter(a => {
     const okMarque =
       marques.length === 0 ||
       marques.some(m => a.dataset.marque.toLowerCase().includes(m.toLowerCase()));
 
     const okMoteur =
-      moteurs.length === 0 ||
-      moteurs.includes(a.dataset.engine);
+      moteurs.length === 0 || moteurs.includes(a.dataset.engine);
 
     const okEnergie =
-      energies.length === 0 ||
-      energies.includes(a.dataset.energy);
+      energies.length === 0 || energies.includes(a.dataset.energy);
 
     const okCategorie =
       categories.length === 0 ||
-      a.dataset.category.toLowerCase().includes(categories[0].toLowerCase());
+      categories.some(cat => a.dataset.category.toLowerCase().includes(cat.toLowerCase()));
 
     const okBoite =
       boites.length === 0 ||
-      a.dataset.gearbox.toLowerCase().includes(boites[0].toLowerCase());
+      boites.some(b => a.dataset.gearbox.toLowerCase().includes(b.toLowerCase()));
 
     const okTransmission =
       transmissions.length === 0 ||
@@ -49,44 +56,56 @@ function appliquerFiltres() {
       positions.length === 0 ||
       positions.includes(a.dataset.enginePosition);
 
-    return (
-      okMarque &&
-      okMoteur &&
-      okEnergie &&
-      okCategorie &&
-      okBoite &&
-      okTransmission &&
-      okPosition
-    );
+    return okMarque && okMoteur && okEnergie && okCategorie && okBoite && okTransmission && okPosition;
   });
 
-  // TRI
-  if (tri === 'prix-asc') {
-    annoncesFiltrees.sort((a, b) => a.dataset.price - b.dataset.price);
-  } else if (tri === 'prix-desc') {
-    annoncesFiltrees.sort((a, b) => b.dataset.price - a.dataset.price);
-  } else if (tri === 'puissance-asc') {
-    annoncesFiltrees.sort((a, b) => a.dataset.power - b.dataset.power);
-  } else if (tri === 'puissance-desc') {
-    annoncesFiltrees.sort((a, b) => b.dataset.power - a.dataset.power);
-  } else if (tri === 'malus-asc') {
-    annoncesFiltrees.sort((a, b) => a.dataset.malus - b.dataset.malus);
-  } else if (tri === 'malus-desc') {
-    annoncesFiltrees.sort((a, b) => b.dataset.malus - a.dataset.malus);
-  }
+  // Tri
+  annoncesFiltrees.sort((a, b) => {
+    let valA, valB;
+    switch(tri) {
+      case 'prix-asc':
+        valA = toNumber(a.dataset.price);
+        valB = toNumber(b.dataset.price);
+        return valA - valB;
+      case 'prix-desc':
+        valA = toNumber(a.dataset.price);
+        valB = toNumber(b.dataset.price);
+        return valB - valA;
+      case 'puissance-asc':
+        valA = toNumber(a.dataset.power);
+        valB = toNumber(b.dataset.power);
+        return valA - valB;
+      case 'puissance-desc':
+        valA = toNumber(a.dataset.power);
+        valB = toNumber(b.dataset.power);
+        return valB - valA;
+      case 'malus-asc':
+        valA = toNumber(a.dataset.malus);
+        valB = toNumber(b.dataset.malus);
+        return valA - valB;
+      case 'malus-desc':
+        valA = toNumber(a.dataset.malus);
+        valB = toNumber(b.dataset.malus);
+        return valB - valA;
+      default:
+        return 0;
+    }
+  });
 
+  // Reset affichage
   indexAffichage = 0;
   allAnnonces.forEach(a => (a.style.display = 'none'));
   chargerPlus();
 }
 
+// Afficher un chunk
 function chargerPlus() {
   const chunk = annoncesFiltrees.slice(indexAffichage, indexAffichage + chunkSize);
   chunk.forEach(a => (a.style.display = 'block'));
   indexAffichage += chunkSize;
 }
 
-// écouteurs
+// Écouteurs filtres
 [
   'filtre-marque',
   'filtre-motorisation',
@@ -101,9 +120,10 @@ function chargerPlus() {
 
 document.getElementById('tri').addEventListener('change', appliquerFiltres);
 
-// init
+// Initialisation
 appliquerFiltres();
 
+// Infinite scroll
 window.addEventListener('scroll', () => {
   if (
     window.innerHeight + window.scrollY >= document.body.offsetHeight - 100 &&
