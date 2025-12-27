@@ -263,3 +263,12 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+.annonce a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+.annonce a:hover {
+  text-decoration: none;
+  color: inherit;
+}
